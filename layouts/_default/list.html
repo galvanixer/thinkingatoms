@@ -1,0 +1,99 @@
+{{ define "main" }}
+<section class="s-content">
+
+    <!-- Page Header -->
+    <div class="s-pageheader">
+        <div class="row">
+            <div class="column large-12">
+                <h1 class="page-title">
+                    <span class="page-title__small-type">Category</span>
+                    {{ .Title }}
+                </h1>
+            </div>
+        </div>
+    </div> <!-- end s-pageheader-->
+
+    <!-- Masonry Layout -->
+    <div class="s-bricks s-bricks--half-top-padding">
+
+        <div class="masonry">
+            <div class="bricks-wrapper h-group">
+
+                <div class="grid-sizer"></div>
+
+                <div class="lines">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+
+                {{ range .Paginator.Pages }}
+                <article class="brick entry" data-aos="fade-up">
+
+                    <div class="entry__thumb">
+                        <a href="{{ .Permalink }}" class="thumb-link">
+                            <img src="{{ .Params.image }}" 
+                                 srcset="{{ .Params.imageSrcset }}" alt="">
+                        </a>
+                    </div> <!-- end entry__thumb -->
+
+                    <div class="entry__text">
+                        <div class="entry__header">
+                            <h1 class="entry__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                            
+                            <div class="entry__meta">
+                                <span class="byline">By:
+                                    <span class="author">
+                                        <a href="#">{{ .Params.author }}</a>
+                                    </span>
+                                </span>
+                                <span class="cat-links">
+                                    {{ range .Params.categories }}
+                                    <a href="/categories/{{ . | urlize }}">{{ . }}</a>
+                                    {{ end }}
+                                </span>
+                            </div>
+                        </div>
+                        <div class="entry__excerpt">
+                            <p>{{ .Params.excerpt }}</p>
+                        </div>
+                        <a class="entry__more-link" href="{{ .Permalink }}">Read More</a>
+                    </div> <!-- end entry__text -->
+                
+                </article> <!-- end article -->
+                {{ end }}
+
+            </div> <!-- end bricks-wrapper -->
+        </div> <!-- end masonry -->
+
+        <!-- Pagination -->
+        <div class="row">
+            <div class="column large-12">
+                <nav class="pgn">
+                    <ul>
+                        {{ if .Paginator.HasPrev }}
+                        <li><a class="pgn__prev" href="{{ .Paginator.Prev.URL }}">Prev</a></li>
+                        {{ end }}
+
+                        {{ range .Paginator.PagesGroup }}
+                        <li>
+                            {{ if .IsCurrent }}
+                            <span class="pgn__num current">{{ .PageNumber }}</span>
+                            {{ else }}
+                            <a class="pgn__num" href="{{ .URL }}">{{ .PageNumber }}</a>
+                            {{ end }}
+                        </li>
+                        {{ end }}
+
+                        {{ if .Paginator.HasNext }}
+                        <li><a class="pgn__next" href="{{ .Paginator.Next.URL }}">Next</a></li>
+                        {{ end }}
+                    </ul>
+                </nav> <!-- end pgn -->
+            </div>
+        </div> end row
+
+    </div> <!-- end s-bricks -->
+
+</section> <!-- end s-content -->
+{{ end }}

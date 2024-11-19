@@ -1,0 +1,47 @@
+{{ define "main" }}
+<section class="s-content">
+
+    <div class="row">
+        <div class="column large-12">
+
+            <article class="s-content__entry">
+
+                <!-- Post Media -->
+                <div class="s-content__media">
+                        <img src="{{ .Params.featured_image }}" 
+                             srcset="{{ .Params.featured_image_srcset }}" 
+                             sizes="(max-width: 2100px) 100vw, 2100px" 
+                             alt="{{ .Params.featured_image_alt }}">
+                </div>
+
+                <!-- Post Header -->
+                <div class="s-content__entry-header">
+                    <h1 class="s-content__title">{{ .Title }}</h1>
+                </div>
+
+                <!-- Post Content -->
+                <div class="s-content__primary">
+                    <div class="s-content__page-content">
+                        {{ .Content }}
+
+                        <div class="row block-large-1-2 block-tab-full s-content__blocks">
+                            {{ with .Params.blocks }}
+                                {{ range . }}
+                                <div class="column">
+                                    <h4>{{ .title }}</h4>
+                                    <p>{{ .content }}</p>
+                                </div>
+                                {{ end }}
+                            {{ end }}
+                        </div>
+                    </div>
+
+                </div>
+
+            </article>
+
+        </div>
+    </div>
+
+</section>
+{{ end }}

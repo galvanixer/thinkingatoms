@@ -1,0 +1,12 @@
+- image: "images/slide1-bg-3000.jpg"
+  categories: ["Lifestyle", "Design"]
+  author: "Urvashi Sharma"
+  title: "Tips and Ideas to Help You Start Freelancing."
+- image: "images/slide2-bg-3000.jpg"
+  categories: ["Work"]
+  author: "Urvashi Sharma"
+  title: "Minimalism: The Art of Keeping It Simple."
+- image: "images/slide3-bg-3000.jpg"
+  categories: ["Health", "Lifestyle"]
+  author: "Urvashi Sharma"
+  title: "10 Reasons Why Being in Nature Is Good For You."

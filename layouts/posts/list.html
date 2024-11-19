@@ -1,0 +1,117 @@
+{{ define "main" }}
+<section class="s-content">
+
+    <!-- Page Header -->
+    <div class="s-pageheader">
+        <div class="row">
+            <div class="column large-12">
+                <h1 class="page-title">
+                    <span class="page-title__small-type">All articles</span>
+                    Posts
+                </h1>
+            </div>
+        </div>
+    </div> <!-- end s-pageheader-->
+
+    <!-- Masonry Layout -->
+    <div class="s-bricks s-bricks--half-top-padding">
+
+        <div class="masonry">
+            <div class="bricks-wrapper h-group">
+
+                <div class="grid-sizer"></div>
+
+                <div class="lines">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+
+                {{ range .Paginator.Pages }}
+                <article class="brick entry" data-aos="fade-up">
+
+                    <div class="entry__thumb">
+                        <a href="{{ .Permalink }}" class="thumb-link">
+                            <img src="{{ .Params.featured_image }}" 
+                                 srcset="{{ .Params.featured_image_srcset }}" alt="{{ .Params.featured_image_alt }}">
+                        </a>
+                    </div> <!-- end entry__thumb -->
+
+                    <div class="entry__text">
+                        <div class="entry__header">
+                            <h1 class="entry__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                            
+                            <div class="entry__meta">
+                                <span class="byline">By:
+                                    <span class="author">
+                                        <a href="#">{{ .Params.author_name }}</a>
+                                    </span>
+                                </span>
+                                <span class="cat-links">
+                                    {{ range .Params.categories }}
+                                    <a href="/categories/{{ . | urlize }}">{{ . }}</a>
+                                    {{ end }}
+                                </span>
+                            </div>
+                        </div>
+                        <div class="entry__excerpt">
+                            <p>{{ .Params.excerpt | safeHTML | truncate 200 }}</p>
+                        </div>
+                        <a class="entry__more-link" href="{{ .Permalink }}">Read More</a>
+                    </div> <!-- end entry__text -->
+                
+                </article> <!-- end article -->
+                {{ end }}
+
+            </div> <!-- end bricks-wrapper -->
+        </div> <!-- end masonry -->
+
+        <!-- Pagination -->
+ 
+        <div class="row">
+            <div class="column large-12">
+                <nav class="pgn">
+                    <ul>
+                        <!-- Previous Page Link -->
+                        {{ if .Paginator.HasPrev }}
+                        <li>
+                            <a class="pgn__prev" href="{{ .Paginator.Prev.URL }}">Prev</a>
+                        </li>
+                        {{ else }}
+                        <li>
+                            <span class="pgn__prev">Prev</span>
+                        </li>
+                        {{ end }}
+        
+                        <!-- Page Numbers -->
+                        {{ $paginator := .Paginator }}
+                        {{ if gt $paginator.TotalPages 1 }}
+                            {{ range $paginator.Pagers }}
+                                {{ if eq .PageNumber $paginator.PageNumber }}
+                                    <span class="pgn__num current", href=""{{ .URL }}>{{ .PageNumber }}</span>
+                                {{ else }}
+                                    <a class="pgn__num" href="{{ .URL }}">{{ .PageNumber }}</a>
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
+
+                        <!-- Next Page Link -->
+                        {{ if .Paginator.HasNext }}
+                        <li>
+                            <a class="pgn__next" href="{{ .Paginator.Next.URL }}">Next</a>
+                        </li>
+                        {{ else }}
+                        <li>
+                            <span class="pgn__next">Next</span>
+                        </li>
+                        {{ end }}
+
+                    </ul>
+                </nav> <!-- end pgn -->
+            </div> <!-- end column -->
+        </div> <!-- end row -->
+
+    </div> <!-- end s-bricks -->
+
+</section> <!-- end s-content -->
+{{ end }}

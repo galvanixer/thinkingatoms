@@ -1,0 +1,10 @@
+<figure class="pull-quote">
+    <blockquote>
+        <p>{{ .Inner }}</p>
+        {{ if .Get "cite" }}
+            <footer>
+                <cite>{{ .Get "cite" }}</cite>
+            </footer>
+        {{ end }}
+    </blockquote>
+</figure>
