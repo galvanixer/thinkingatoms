@@ -10,7 +10,7 @@ author_avatar: "/images/authorimages/urvashi_bindi.jpeg"
 author_url: "#"
 categories: ["People"]
 tags: ["people", "life", "love"]
-excerpt: "Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id..."
+excerpt: "Missing home this Diwali, I reflect on family, childhood bonds, and the simple yet profound desire to truly stay connected."
 ---
 {{< lead >}}
 Right now, preparations for Diwali are going on in India, and I am missing home badly. The cleaning for Diwali was such a headache! When I think of home during Diwali, it’s not just one thing that comes to mind; everything does—the blankets and mattresses pulled out for the winter, the fans covered in dust, and the old, dirty containers in the kitchen.

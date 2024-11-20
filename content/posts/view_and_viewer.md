@@ -10,7 +10,7 @@ author_avatar: "/images/authorimages/urvashi_hrensko.jpeg"
 author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "nature"]
-excerpt: "Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id..."
+excerpt: "Do we visit nature to admire its beauty or to showcase ourselves? A reflection on being a tourist in scenic places."
 ---
 {{< lead >}}
 This thought first came to my mind when I visited Nainital with my father, probably in August 2021, and since then, whenever I visit a beautiful place, this thought crosses my mind at least once.

@@ -10,7 +10,7 @@ author_avatar: "/images/authorimages/urvashi_strasbourg.jpeg"
 author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "life", "society"]
-excerpt: "Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id..."
+excerpt: "Rethinking the tortoise and the hare story: do we really value steady progress, or is speed the ultimate goal in life?"
 ---
 {{< lead >}}
 We’ve all heard the story of the tortoise and the hare countless times since childhood. There’s no need to repeat it here. What I want to discuss is: what did we learn from this story? That slow and steady wins the race, right? But is that really all we learned from this story?

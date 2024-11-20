@@ -10,7 +10,7 @@ author_avatar: "/images/authorimages/urvashi_bindi.jpeg"
 author_url: "#"
 categories: ["People"]
 tags: ["people", "life", "love"]
-excerpt: "Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id..."
+excerpt: "Reflecting on Rakhi and a special bond with some people—gifts that go beyond material value to create lasting connections."
 ---
 {{< lead >}}
 It’s August, which means it’s time for Raksha Bandhan. This year, I’m away from home, but I remember how important this festival is for our families.

@@ -10,7 +10,7 @@ author_avatar: "/images/authorimages/urvashi_fussen.jpeg"
 author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "nature", "life"]
-excerpt: "Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id..."
+excerpt: "Watching crows build a nest, I reflect on how humans, like animals, follow nature’s plan but add layers of ego and glamour."
 ---
 {{< lead >}}
 While sitting alone in this room, I’m observing a couple of crows making a nest. Maybe they’re planning to have babies.
