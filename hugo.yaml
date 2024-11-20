@@ -17,13 +17,13 @@ params:
     debug: false
   socialLinks:
     - name: "twitter"
-      url: "https://twitter.com/urvashi"
+      url: "https://x.com/NanoUrvashi"
       weight: 3
     - name: "instagram"
-      url: "https://instagram.com/username"
+      url: "https://www.instagram.com/thethinkingatoms/"
       weight: 2
     - name: "linkedin"
-      url: "https://linkedin.com/username"
+      url: "https://www.linkedin.com/in/urvashi-sharma-64955a316/"
       weight: 1
 
 pagination:
