@@ -12,7 +12,7 @@ author_avatar: "/images/authorimages/urvashi_bohinj.jpeg"
 author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "society"]
-excerpt: "Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id..."
+excerpt: "From childhood cravings to adulthood’s lost magic—why chocolate just doesn’t taste the same anymore."
 ---
 {{< lead >}}
 I’m sitting here having chocolate and realizing that it’s so boring and not at all delicious.
