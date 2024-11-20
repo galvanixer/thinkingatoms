@@ -5,12 +5,16 @@ date: 2024-08-08
 featured_image: "/images/posts/Intelligence_Ignorant/header.jpeg"
 featured_image_srcset: "/images/posts/Intelligence_Ignorant/header.jpeg 2100w, /images/posts/view_viewer/header.jpeg 1050w"
 featured_image_alt: "Intelligence of the ignorant one"
-coverimage: ""
+cover:
+    image: "/images/posts/Intelligence_Ignorant/CoverSquare.jpeg"
+    alt: "A little girl cooking."
 author_avatar: "/images/authorimages/urvashi_udaipur.jpeg"
 author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "life", "society"]
 excerpt: "Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id..."
+showhero: true
+heroimage: "images/slide2-bg-3000.jpg" 
 ---
 {{< lead >}}
 Let’s start with this idea: “One should never be completely ignorant.” Why? Because being ignorant can sometimes cause us to misinterpret a lack of effort or understanding as cleverness or strength.

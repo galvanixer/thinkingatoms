@@ -1,3 +1,3 @@
 ---
+layout: "home"
 ---
-This is me.

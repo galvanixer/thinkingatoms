@@ -6,8 +6,8 @@
         <div class="row">
             <div class="column large-12">
                 <h1 class="page-title">
-                    <span class="page-title__small-type">All articles</span>
-                    Posts
+                    <span class="page-title__small-type">{{ .Data.Singular | title }}</span>
+                    {{ .Title }}
                 </h1>
             </div>
         </div>
@@ -32,12 +32,8 @@
 
                     <div class="entry__thumb">
                         <a href="{{ .Permalink }}" class="thumb-link">
-                            {{ if .Params.cover.image }}
-                            <img src="{{ .Params.cover.image }}" alt="{{ .Params.cover.alt }}">
-                            {{ else }}
                             <img src="{{ .Params.featured_image }}" 
                                  srcset="{{ .Params.featured_image_srcset }}" alt="{{ .Params.featured_image_alt }}">
-                            {{ end }}
                         </a>
                     </div> <!-- end entry__thumb -->
 

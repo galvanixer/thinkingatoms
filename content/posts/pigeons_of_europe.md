@@ -5,12 +5,16 @@ date: 2024-08-13
 featured_image: "/images/posts/Pigeons_Europe/header.jpeg"
 featured_image_srcset: "/images/posts/Pigeons_Europe/header.jpeg 2100w, /images/posts/view_viewer/header.jpeg 1050w"
 featured_image_alt: "Pigeons in Europe"
-coverimage: ""
+cover:
+    image: "/images/posts/Pigeons_Europe/CoverSquare.jpeg"
+    alt: "A pigeon."
 author_avatar: "/images/authorimages/urvashi_bohinj.jpeg"
 author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "nature", "society"]
 excerpt: "Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id..."
+showhero: true
+heroimage: "images/slide3-bg-3000.jpg" 
 ---
 {{< lead >}}
 Am I so impressed with Europe that I’m writing blogs about every little thing here? No, it’s not quite like that. It’s just my observation about animal behavior and how it differs so much from humans.

@@ -5,12 +5,14 @@ date: 2024-10-24
 featured_image: "/images/posts/People_Stay/header.jpeg"
 featured_image_srcset: "/images/posts/People_Stay/header.jpeg 2100w, /images/posts/People_Stay/header.jpeg 1050w"
 featured_image_alt: "Intelligence of the ignorant one"
-coverimage: ""
+cover:
+    image: "/images/posts/People_Stay/CoverSquare.jpeg"
+    alt: "People who are Meant to Stay."
 author_avatar: "/images/authorimages/urvashi_bindi.jpeg"
 author_url: "#"
 categories: ["People"]
 tags: ["people", "life", "love"]
-excerpt: "Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id..."
+excerpt: "Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id..." 
 ---
 {{< lead >}}
 Right now, preparations for Diwali are going on in India, and I am missing home badly. The cleaning for Diwali was such a headache! When I think of home during Diwali, it’s not just one thing that comes to mind; everything does—the blankets and mattresses pulled out for the winter, the fans covered in dust, and the old, dirty containers in the kitchen.

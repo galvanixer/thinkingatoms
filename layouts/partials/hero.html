@@ -1,30 +1,33 @@
 <section id="hero" class="s-hero">
     <div class="s-hero__slider">
-
-        {{ range .Site.Data.hero_slides }}
+        {{ $pages := where .Site.RegularPages "Section" "posts" }}
+        {{ $pages = $pages.ByDate}}
+        {{ range $pages }}
+        {{ if .Params.showhero }}
         <div class="s-hero__slide">
-            <div class="s-hero__slide-bg" style="background-image: url('{{ .image | relURL }}');"></div>
+            <div class="s-hero__slide-bg" style="background-image: url('{{ .Params.heroimage | relURL }}');"></div>
             <div class="row s-hero__slide-content animate-this">
                 <div class="column">
                     <div class="s-hero__slide-meta">
                         <span class="cat-links">
-                            {{ range .categories }}
+                            {{ range .Params.categories }}
                             <a href="#">{{ . }}</a>
                             {{ end }}
                         </span>
                         <span class="byline"> 
                             Posted by 
                             <span class="author">
-                                <a href="#">{{ .author }}</a>
+                                <a href="#">{{ .Params.author_name }}</a>
                             </span>
                         </span>
                     </div>
                     <h1 class="s-hero__slide-text">
-                        <a href="#">{{ .title }}</a>
+                        <a href="#">{{ .Params.title }}</a>
                     </h1>
                 </div>
             </div>
         </div> <!-- end s-hero__slide -->
+        {{ end }}
         {{ end }}
 
     </div> <!-- end s-hero__slider -->
@@ -34,7 +37,7 @@
         <span></span>
         <ul class="s-hero__social-icons">
             {{ range site.Params.socialLinks }}
-            <li><a href={{ .url }}><i class="fab fa-{{ .name }}" aria-hidden="true"></i></a></li>
+            <li><a href={{ .url }} target="_blank"><i class="fab fa-{{ .name }}" aria-hidden="true"></i></a></li>
             {{ end }}
 
         </ul>

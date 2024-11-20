@@ -5,7 +5,9 @@ date: 2023-10-21
 featured_image: "/images/posts/Taste_Chocolate/header.jpeg"
 featured_image_srcset: "/images/posts/Taste_Chocolate/header.jpeg 2100w, /images/posts/Taste_Chocolate/header.jpeg 1050w"
 featured_image_alt: "Taste of Chocolate"
-coverimage: ""
+cover:
+    image: "/images/posts/Taste_Chocolate/CoverSquare.jpeg"
+    alt: "A chocolate cake."
 author_avatar: "/images/authorimages/urvashi_bohinj.jpeg"
 author_url: "#"
 categories: ["ThinkBox"]

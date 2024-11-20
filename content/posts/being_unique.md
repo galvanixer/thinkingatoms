@@ -5,12 +5,17 @@ date: 2024-04-30
 featured_image: "/images/posts/beinghumanbeingunique/header.jpeg"
 featured_image_srcset: "/images/posts/beinghumanbeingunique/header.jpeg 2100w, /images/posts/view_viewer/header.jpeg 1050w"
 featured_image_alt: "Being Human Being Unique"
-coverimage: ""
+cover:
+    image: "/images/posts/beinghumanbeingunique/CoverSquare.jpeg"
+    alt: "Study room with a window."
 author_avatar: "/images/authorimages/urvashi_fussen.jpeg"
 author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "nature", "life"]
 excerpt: "Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id..."
+showhero: true
+heroimage: "images/slide1-bg-3000.jpg" 
+
 ---
 {{< lead >}}
 While sitting alone in this room, I’m observing a couple of crows making a nest. Maybe they’re planning to have babies.

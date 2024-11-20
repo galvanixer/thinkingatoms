@@ -1,25 +1,15 @@
 ---
 title: "Standard Post"
 date: 2024-11-15
+draft: true
 featured_image: "/images/posts/HangingLamp.jpg"
 featured_image_srcset: "/images/thumbs/single/single-post-2100.jpg 2100w, /images/thumbs/single/single-post-1050.jpg 1050w"
 featured_image_alt: "Post thumbnail"
 author_name: "Urvashi Sharma"
 author_avatar: "/images/avatars/user-06.jpg"
 author_url: "#"
-categories: ["Frontend", "Design", "Work", "This", "That", "What Not"]
+categories: ["Standard"]
 tags: ["orci", "lectus", "varius", "turpis"]
-comments:
-  - avatar: "/images/avatars/user-01.jpg"
-    author: "Itachi Uchiha"
-    date: "Oct 05, 2020"
-    reply: "Reply"
-    text: "Adhuc quaerendum est ne, vis ut harum tantas noluisse..."
-  - avatar: "/images/avatars/user-04.jpg"
-    author: "John Doe"
-    date: "Oct 05, 2020"
-    reply: "Reply"
-    text: "Sumo euismod dissentiunt ne sit, ad eos iudico qualisque adversarium..."
 excerpt: "This is one of the finest blogs I have written. It will change the world and you will see it for sure. Read it and change your life."
 ---
 

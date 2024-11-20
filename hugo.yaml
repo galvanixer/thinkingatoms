@@ -14,7 +14,7 @@ markup:
 
 params:
   dev:
-    debug: false
+    debug: true
   socialLinks:
     - name: "twitter"
       url: "https://x.com/NanoUrvashi"
@@ -37,13 +37,17 @@ menus:
     - name: "Blog"
       pageRef: "/posts/"
       weight: 2
-    - name: "ThinkBox"
-      pageRef: "/categories/thinkbox/"
-      parent: "Blog"
-      weight: 1
     - name: "Categories"
       url: "/categories/"
       weight: 3
     - name: "About"
       pageRef: "/about/"
       weight: 4
+    - name: "Contact"
+      pageRef: "/contact/"
+      weight: 5
+
+# - name: "ThinkBox"
+# pageRef: "/categories/thinkbox/"
+# parent: "Blog"
+# weight: 1
