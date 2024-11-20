@@ -32,7 +32,6 @@
     <!-- Header -->
     {{ partial "header.html" . }}
 
-
     
     <!-- {{ partial "hero.html" . }} -->
     <!-- Main Content -->
@@ -44,6 +43,7 @@
     {{ if .Site.Params.dev.debug }}
     <div class="debug-info">
         <p>Debug Mode: Active</p>
+        <p>Link: {{ .RelPermalink }}</p>
         <p>Template Name: {{ .Layout }}</p>
         <p>Template Type: {{ .Type }}</p>
     </div>

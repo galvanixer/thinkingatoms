@@ -72,20 +72,22 @@
             <div class="column large-12">
                 <nav class="pgn">
                     <ul>
-                        <!-- Previous Page Link -->
-                        {{ if .Paginator.HasPrev }}
-                        <li>
-                            <a class="pgn__prev" href="{{ .Paginator.Prev.URL }}">Prev</a>
-                        </li>
-                        {{ else }}
-                        <li>
-                            <span class="pgn__prev">Prev</span>
-                        </li>
-                        {{ end }}
-        
-                        <!-- Page Numbers -->
                         {{ $paginator := .Paginator }}
                         {{ if gt $paginator.TotalPages 1 }}
+                        <!-- Previous Page Link -->
+                            {{ if .Paginator.HasPrev }}
+                            <li>
+                                <a class="pgn__prev" href="{{ .Paginator.Prev.URL }}">Prev</a>
+                            </li>
+                            {{ else }}
+                            <li>
+                                <span class="pgn__prev">Prev</span>
+                            </li>
+                            {{ end }}
+            
+                            <!-- Page Numbers -->
+                            
+                        
                             {{ range $paginator.Pagers }}
                                 {{ if eq .PageNumber $paginator.PageNumber }}
                                     <span class="pgn__num current", href=""{{ .URL }}>{{ .PageNumber }}</span>
@@ -93,19 +95,19 @@
                                     <a class="pgn__num" href="{{ .URL }}">{{ .PageNumber }}</a>
                                 {{ end }}
                             {{ end }}
-                        {{ end }}
+                        
 
-                        <!-- Next Page Link -->
-                        {{ if .Paginator.HasNext }}
-                        <li>
-                            <a class="pgn__next" href="{{ .Paginator.Next.URL }}">Next</a>
-                        </li>
-                        {{ else }}
-                        <li>
-                            <span class="pgn__next">Next</span>
-                        </li>
+                            <!-- Next Page Link -->
+                            {{ if .Paginator.HasNext }}
+                            <li>
+                                <a class="pgn__next" href="{{ .Paginator.Next.URL }}">Next</a>
+                            </li>
+                            {{ else }}
+                            <li>
+                                <span class="pgn__next">Next</span>
+                            </li>
+                            {{ end }}
                         {{ end }}
-
                     </ul>
                 </nav> <!-- end pgn -->
             </div> <!-- end column -->

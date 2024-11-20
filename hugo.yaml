@@ -1,0 +1,49 @@
+baseURL: "https://example.org/"
+languageCode: "en-us"
+title: "My New Hugo Site"
+theme: "ananke"
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  dev:
+    debug: false
+  socialLinks:
+    - name: "twitter"
+      url: "https://twitter.com/username"
+      weight: 3
+    - name: "instagram"
+      url: "https://instagram.com/username"
+      weight: 2
+    - name: "linkedin"
+      url: "https://linkedin.com/username"
+      weight: 1
+
+pagination:
+  pagerSize: 10
+
+menus:
+  main:
+    - name: "Home"
+      pageRef: "/"
+      weight: 1
+    - name: "Blog"
+      pageRef: "/posts/"
+      weight: 2
+    - name: "ThinkBox"
+      pageRef: "/categories/thinkbox/"
+      parent: "Blog"
+      weight: 1
+    - name: "Categories"
+      url: "/categories/"
+      weight: 3
+    - name: "About"
+      pageRef: "/about/"
+      weight: 4

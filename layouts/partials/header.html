@@ -1,4 +1,8 @@
+{{ if eq .RelPermalink "/" }}
+<header class="s-header">
+{{ else }}
 <header class="s-header s-header--opaque">
+{{ end }}
     <!-- Logo -->
     <div class="s-header__logo">
         <a class="logo" href="{{ "/" | relURL }}">
@@ -7,30 +11,34 @@
     </div>
 
     <!-- Navigation -->
+
     <div class="row s-header__navigation">
         <nav class="s-header__nav-wrap">
-            <h3 class="s-header__nav-heading h6">Navigate to</h3>
             <ul class="s-header__nav">
-                <li class="current"><a href="{{ "/" | relURL }}" title="">Home</a></li>
-                <li class="has-children">
-                    <a href="#" title="">Categories</a>
-                    <ul class="sub-menu">
-                        {{ range .Site.Taxonomies.categories }}
-                        <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
-                        {{ end }}
-                    </ul>
-                </li>
-                <li class="has-children">
-                    <a href="#" title="">Blog</a>
-                    <ul class="sub-menu">
-                        <li><a href="{{ "/single-video/" | relURL }}">Video Post</a></li>
-                        <li><a href="{{ "/single-audio/" | relURL }}">Audio Post</a></li>
-                        <li><a href="{{ "/single-standard/" | relURL }}">Standard Post</a></li>
-                    </ul>
-                </li>
-                <li><a href="{{ "/styles/" | relURL }}" title="">Styles</a></li>
-                <li><a href="{{ "/about/" | relURL }}" title="">About</a></li>
-                <li><a href="{{ "/contact/" | relURL }}" title="">Contact</a></li>
+                {{ range site.Menus.main }}
+                    {{ if eq .Name "Categories" }}
+                    <li class="has-children">
+                        <a href="{{ .URL }}" title="">{{ .Name }}</a>
+                        <ul class="sub-menu">
+                            {{ range site.Taxonomies.categories }}
+                            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+                            {{ end }}
+                        </ul>
+                    </li>
+                    {{ else if .HasChildren }}
+                    <li class="has-children">
+                        <a href="{{ .URL | relURL }}" title="">{{ .Name }}</a>
+                        <ul class="sub-menu">
+                            {{ range .Children }}
+                            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                            {{ end }}
+                        </ul>
+                    </li>
+                    {{ else }}
+                    <li class="{{ if eq .URL .Page.RelPermalink }} current {{ end }}"><a href="{{ .URL }}" title="">{{ .Name }}</a></li>
+                    {{ end }}
+
+                {{ end }}
             </ul> <!-- end s-header__nav -->
             <a href="#" title="Close Menu" class="s-header__overlay-close close-mobile-menu">Close</a>
         </nav> <!-- end s-header__nav-wrap -->

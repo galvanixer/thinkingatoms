@@ -1,3 +1,63 @@
 {{ define "main" }}
+    {{ partial "hero.html" . }}
+
+
+<section class="s-content s-content--no-top-padding">
+
+    <!-- Masonry Layout -->
+    <div class="s-bricks">
+
+        <div class="masonry">
+            <div class="bricks-wrapper h-group">
+
+                <div class="grid-sizer"></div>
+
+                <div class="lines">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                {{ $pages := where .Site.RegularPages "Section" "posts" }}
+                {{ $pages = $pages.ByDate}}
+                {{ range $pages }}
+                <article class="brick entry" data-aos="fade-up">
+
+                    <div class="entry__thumb">
+                        <a href="{{ .Permalink }}" class="thumb-link">
+                            <img src="{{ .Params.featured_image }}" 
+                                 srcset="{{ .Params.featured_image_srcset }}" alt="{{ .Params.featured_image_alt }}">
+                        </a>
+                    </div> <!-- end entry__thumb -->
+
+                    <div class="entry__text">
+                        <div class="entry__header">
+                            <h1 class="entry__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                            
+                            <div class="entry__meta">
+                                <span class="byline">By:
+                                    <span class="author">
+                                        <a href="#">{{ .Params.author_name }}</a>
+                                    </span>
+                                </span>
+                                <span class="cat-links">
+                                    {{ range .Params.categories }}
+                                    <a href="/categories/{{ . | urlize }}">{{ . }}</a>
+                                    {{ end }}
+                                </span>
+                            </div>
+                        </div>
+                        <div class="entry__excerpt">
+                            <p>{{ .Params.excerpt | safeHTML | truncate 200 }}</p>
+                        </div>
+                        <a class="entry__more-link" href="{{ .Permalink }}">Read More</a>
+                    </div> <!-- end entry__text -->
+                
+                </article> <!-- end article -->
+                {{ end }}
+
+            </div> <!-- end bricks-wrapper -->
+        </div> <!-- end masonry -->
+    </div>
+</section> <!-- end s-content -->
 
 {{ end }}
