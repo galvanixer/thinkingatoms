@@ -22,29 +22,27 @@
                 <h5>Site Links</h5>
 
                 <ul>
-                    <li><a href="#0">About Us</a></li>
-                    <li><a href="#0">Blog</a></li>
-                    <li><a href="#0">FAQ</a></li>
-                    <li><a href="#0">Terms</a></li>
-                    <li><a href="#0">Privacy Policy</a></li>
+                    <li><a href="/about">About Me</a></li>
+                    <li><a href="/posts">Blog</a></li>
+                    <li><a href="/contact">Contact</a></li>
+
                 </ul>
 
             </div> <!-- end s-footer__site-links -->  
 
             <div class="column large-2 medium-3 tab-6 s-footer__social-links">
 
-                <h5>Follow Us</h5>
+                <h5>Follow Me On</h5>
 
                 <ul>
-                    <li><a href="#0">Twitter</a></li>
-                    <li><a href="#0">Facebook</a></li>
-                    <li><a href="#0">Dribbble</a></li>
-                    <li><a href="#0">Pinterest</a></li>
-                    <li><a href="#0">Instagram</a></li>
+                    {{ range site.Params.socialLinks }}
+                    <li><a href="{{ .url }}" target="_blank">{{ .name | title }}</a></li>
+                    {{ end }}
                 </ul>
 
             </div> <!-- end s-footer__social links --> 
 
+            {{ if .Site.Params.shownewsletter}}
             <div class="column large-3 medium-6 tab-12 s-footer__subscribe">
 
                 <h5>Sign Up for Newsletter</h5>
@@ -64,9 +62,8 @@
                     </form>
 
                 </div>
-
             </div> <!-- end s-footer__subscribe -->
-
+            {{ end }}
         </div> <!-- end row -->
 
     </div> <!-- end s-footer__main -->
@@ -75,8 +72,8 @@
         <div class="row">
             <div class="column">
                 <div class="ss-copyright">
-                    <span>© Copyright Calvin 2020</span> 
-                    <span>Design by <a href="https://www.styleshout.com/">StyleShout</a></span>
+                    <span>© Copyright ThinkingAtoms 2024-2025</span> 
+                    <!-- <span>Design by <a href="https://www.styleshout.com/">StyleShout</a></span> -->
                 </div> <!-- end ss-copyright -->
             </div>
         </div> 

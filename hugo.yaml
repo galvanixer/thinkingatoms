@@ -13,8 +13,9 @@ markup:
       unsafe: true
 
 params:
+  shownewsletter: false
   dev:
-    debug: true
+    debug: false
   socialLinks:
     - name: "twitter"
       url: "https://x.com/NanoUrvashi"
@@ -25,6 +26,7 @@ params:
     - name: "linkedin"
       url: "https://www.linkedin.com/in/urvashi-sharma-64955a316/"
       weight: 1
+  email: "urvashi.iitr@outlook.com"
 
 pagination:
   pagerSize: 10
