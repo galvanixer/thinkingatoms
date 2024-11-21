@@ -6,7 +6,7 @@ featured_image: "/images/posts/beinghumanbeingunique/header.jpeg"
 featured_image_srcset: "/images/posts/beinghumanbeingunique/header.jpeg 2100w, /images/posts/view_viewer/header.jpeg 1050w"
 featured_image_alt: "Being Human Being Unique"
 cover:
-    image: "/images/posts/beinghumanbeingunique/CoverSquare.jpeg"
+    image: "images/posts/beinghumanbeingunique/CoverSquare.jpeg"
     alt: "Study room with a window."
 author_avatar: "/images/authorimages/urvashi_fussen.jpeg"
 author_url: "#"
