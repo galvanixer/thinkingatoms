@@ -2,9 +2,9 @@
 title: "The Pigeons of Europe"
 author_name: "Urvashi Sharma"
 date: 2024-08-13
-featured_image: "images/posts/Pigeons_Europe/header.jpeg"
-featured_image_srcset: "/images/posts/Pigeons_Europe/header.jpeg 2100w, images/posts/view_viewer/header.jpeg 1050w"
-featured_image_alt: "Pigeons in Europe"
+postcover:
+    image: "images/posts/Pigeons_Europe/header.jpeg"
+    imagealt: "Pigeons in Europe"
 cover:
     image: "images/posts/Pigeons_Europe/CoverSquare.jpeg"
     alt: "A pigeon."

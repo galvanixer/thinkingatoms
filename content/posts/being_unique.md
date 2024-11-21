@@ -2,9 +2,9 @@
 title: "Being Human, Being Unique"
 author_name: "Urvashi Sharma"
 date: 2024-04-30
-featured_image: "images/posts/beinghumanbeingunique/header.jpeg"
-featured_image_srcset: "images/posts/beinghumanbeingunique/header.jpeg 2100w, images/posts/view_viewer/header.jpeg 1050w"
-featured_image_alt: "Being Human Being Unique"
+postcover:
+    image: "images/posts/beinghumanbeingunique/header.jpeg"
+    imagealt: "Being Human Being Unique"
 cover:
     image: "images/posts/beinghumanbeingunique/CoverSquare.jpeg"
     alt: "Study room with a window."

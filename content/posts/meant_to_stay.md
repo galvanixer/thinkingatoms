@@ -2,9 +2,9 @@
 title: "People who are Meant to Stay"
 author_name: "Urvashi Sharma"
 date: 2024-10-24
-featured_image: "images/posts/People_Stay/header.jpeg"
-featured_image_srcset: "images/posts/People_Stay/header.jpeg 2100w, images/posts/People_Stay/header.jpeg 1050w"
-featured_image_alt: "Intelligence of the ignorant one"
+postcover:
+    image: "images/posts/People_Stay/header.jpeg"
+    imagealt: "Intelligence of the ignorant one"
 cover:
     image: "images/posts/People_Stay/CoverSquare.jpeg"
     alt: "People who are Meant to Stay."
