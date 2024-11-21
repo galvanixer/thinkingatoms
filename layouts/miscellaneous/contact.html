@@ -45,7 +45,23 @@
                                 </div>
                             </div> <!-- end s-content__blocks -->
 
-                            <form name="cForm" id="cForm" class="s-content__form" method="post" action="">
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xjkvojwq"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+                            <form name="cForm" id="cForm" class="s-content__form" method="POST" action="https://formspree.io/f/xjkvojwq">
                                 <fieldset>
 
                                     <div class="form-field">
@@ -57,7 +73,7 @@
                                     </div>
 
                                     <div class="form-field">
-                                        <input name="cWebsite" type="text" id="cWebsite" class="h-full-width h-remove-bottom" placeholder="Website"  value="">
+                                        <input name="cSubject" type="text" id="cSubject" class="h-full-width h-remove-bottom" placeholder="Subject"  value="">
                                     </div>
 
                                     <div class="message form-field">
