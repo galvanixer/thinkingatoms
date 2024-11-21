@@ -26,8 +26,7 @@
                             {{ if .Params.cover.image }}
                             <img src="{{ .Params.cover.image | relURL }}" alt="{{ .Params.cover.alt }}">
                             {{ else }}
-                            <img src="{{ .Params.featured_image | relURL }}" 
-                                 srcset="{{ .Params.featured_image_srcset }}" alt="{{ .Params.featured_image_alt }}">
+                            <img src="{{ .Params.postcover.image | relURL }}" alt="{{ .Params.postcover.imagealt }}">
                             {{ end }}
                         </a>
                     </div> <!-- end entry__thumb -->
