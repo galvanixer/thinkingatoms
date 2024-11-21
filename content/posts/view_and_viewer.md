@@ -2,13 +2,13 @@
 title: "View & Viewer"
 author_name: "Urvashi Sharma"
 date: 2024-09-26
-featured_image: "/images/posts/view_viewer/header.jpeg"
-featured_image_srcset: "/images/posts/view_viewer/header.jpeg 2100w, /images/posts/view_viewer/header.jpeg 1050w"
+featured_image: "images/posts/view_viewer/header.jpeg"
+featured_image_srcset: "images/posts/view_viewer/header.jpeg 2100w, images/posts/view_viewer/header.jpeg 1050w"
 featured_image_alt: "Post thumbnail"
 cover:
-    image: "/images/posts/view_viewer/CoverSquare.jpeg"
+    image: "images/posts/view_viewer/CoverSquare.jpeg"
     alt: "Taking photo with mobile phone."
-author_avatar: "/images/authorimages/urvashi_hrensko.jpeg"
+author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
 author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "nature"]

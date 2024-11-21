@@ -2,13 +2,13 @@
 title: "Indebted for Life "
 author_name: "Urvashi Sharma"
 date: 2024-08-10
-featured_image: "/images/posts/Indebt/header.jpeg"
-featured_image_srcset: "/images/posts/Indebt/header.jpeg 2100w, /images/posts/Indebt/header.jpeg 1050w"
+featured_image: "images/posts/Indebt/header.jpeg"
+featured_image_srcset: "images/posts/Indebt/header.jpeg 2100w, images/posts/Indebt/header.jpeg 1050w"
 featured_image_alt: "Intelligence of the ignorant one"
 cover:
-    image: "/images/posts/Indebt/CoverSquare.jpeg"
+    image: "images/posts/Indebt/CoverSquare.jpeg"
     alt: "A girl with her mother."
-author_avatar: "/images/authorimages/urvashi_bindi.jpeg"
+author_avatar: "images/authorimages/urvashi_bindi.jpeg"
 author_url: "#"
 categories: ["People"]
 tags: ["people", "life", "love"]

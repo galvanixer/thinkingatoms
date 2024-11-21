@@ -2,13 +2,13 @@
 title: "The Pigeons of Europe"
 author_name: "Urvashi Sharma"
 date: 2024-08-13
-featured_image: "/images/posts/Pigeons_Europe/header.jpeg"
-featured_image_srcset: "/images/posts/Pigeons_Europe/header.jpeg 2100w, /images/posts/view_viewer/header.jpeg 1050w"
+featured_image: "images/posts/Pigeons_Europe/header.jpeg"
+featured_image_srcset: "/images/posts/Pigeons_Europe/header.jpeg 2100w, images/posts/view_viewer/header.jpeg 1050w"
 featured_image_alt: "Pigeons in Europe"
 cover:
-    image: "/images/posts/Pigeons_Europe/CoverSquare.jpeg"
+    image: "images/posts/Pigeons_Europe/CoverSquare.jpeg"
     alt: "A pigeon."
-author_avatar: "/images/authorimages/urvashi_bohinj.jpeg"
+author_avatar: "images/authorimages/urvashi_bohinj.jpeg"
 author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "nature", "society"]

@@ -2,13 +2,13 @@
 title: "What Did We Learn from the Story of the Tortoise and the Hare?"
 author_name: "Urvashi Sharma"
 date: 2024-09-26
-featured_image: "/images/posts/Hare_Tortoise/header.jpeg"
-featured_image_srcset: "/images/posts/Hare_Tortoise/header.jpeg 2100w, /images/posts/view_viewer/header.jpeg 1050w"
+featured_image: "images/posts/Hare_Tortoise/header.jpeg"
+featured_image_srcset: "images/posts/Hare_Tortoise/header.jpeg 2100w, images/posts/view_viewer/header.jpeg 1050w"
 featured_image_alt: "Being Human Being Unique"
 cover:
-    image: "/images/posts/Hare_Tortoise/CoverSquare.jpeg"
+    image: "images/posts/Hare_Tortoise/CoverSquare.jpeg"
     alt: "Tortoise on a table."
-author_avatar: "/images/authorimages/urvashi_strasbourg.jpeg"
+author_avatar: "images/authorimages/urvashi_strasbourg.jpeg"
 author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "life", "society"]

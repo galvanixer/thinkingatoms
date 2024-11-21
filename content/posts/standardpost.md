@@ -2,11 +2,11 @@
 title: "Standard Post"
 date: 2024-11-15
 draft: true
-featured_image: "/images/posts/HangingLamp.jpg"
-featured_image_srcset: "/images/thumbs/single/single-post-2100.jpg 2100w, /images/thumbs/single/single-post-1050.jpg 1050w"
+featured_image: "images/posts/HangingLamp.jpg"
+featured_image_srcset: "images/thumbs/single/single-post-2100.jpg 2100w, images/thumbs/single/single-post-1050.jpg 1050w"
 featured_image_alt: "Post thumbnail"
 author_name: "Urvashi Sharma"
-author_avatar: "/images/avatars/user-06.jpg"
+author_avatar: "images/avatars/user-06.jpg"
 author_url: "#"
 categories: ["Standard"]
 tags: ["orci", "lectus", "varius", "turpis"]
