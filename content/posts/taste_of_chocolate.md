@@ -3,7 +3,7 @@ title: "The Taste of Chocolate"
 author_name: "Urvashi Sharma"
 date: 2023-10-21
 postcover:
-    image: "/images/posts/Taste_Chocolate/header.jpeg"
+    image: "images/posts/Taste_Chocolate/header.jpeg"
     imagealt: "Taste of Chocolate"
 cover:
     image: "images/posts/Taste_Chocolate/CoverSquare.jpeg"
