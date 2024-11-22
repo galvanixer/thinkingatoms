@@ -1,4 +1,4 @@
-baseURL: "https://example.org/"
+baseURL: "https://thinkingatoms.in/"
 languageCode: "en-us"
 title: "My New Hugo Site"
 theme: "ananke"
@@ -12,6 +12,11 @@ markup:
     renderer:
       unsafe: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 params:
   shownewsletter: false
   dev:
