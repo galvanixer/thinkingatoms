@@ -14,7 +14,9 @@
                     </div>
 
                     <div class="s-content__entry-header">
-                        <h1 class="s-content__title">{{ .Title }}</h1>
+                        <p class="s-content__subtitle">{{ .Params.subtitle }}</p>
+                        <h1 class="s-content__title">{{ .Params.title }}</h1>
+                        
                     </div> <!-- end s-content__entry-header -->
 
                     <div class="s-content__primary">
@@ -27,11 +29,10 @@
 
                             <div class="row block-large-1-2 block-tab-full s-content__blocks">
                                 <div class="column">
-                                    <h4>Where to Find Us</h4>
+                                    <h4>Address</h4>
                                     <p>
-                                    1600 Amphitheatre Parkway<br>
-                                    Mountain View, CA<br>
-                                    94043 US
+                                    Strasbourg<br>
+                                    67000 France
                                     </p>
                                 </div>
 
@@ -39,8 +40,6 @@
                                     <h4>Contact Info</h4>
                                     <p>
                                     {{ site.Params.email }}<br>
-                                    info@yourdomain.com <br>
-                                    Phone: (+63) 555 1212
                                     </p> 
                                 </div>
                             </div> <!-- end s-content__blocks -->

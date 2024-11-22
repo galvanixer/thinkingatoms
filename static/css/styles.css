@@ -4521,6 +4521,15 @@ body.search-is-visible {
     text-align: center;
 }
 
+.s-content__subtitle {
+    margin-top: 0;
+    margin-bottom:0;
+    font-family: var(--font-1);
+    letter-spacing: -.01em;
+    text-align: center;
+    color: var(--color-text-light)
+}
+
 /* ------------------------------------------------------------------- 
  * ## content primary
  * ------------------------------------------------------------------- */

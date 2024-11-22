@@ -11,18 +11,18 @@
                     <div class="s-hero__slide-meta">
                         <span class="cat-links">
                             {{ range .Params.categories }}
-                            <a href="#">{{ . }}</a>
+                            <a href="/categories/{{ . | urlize }}">{{ . }}</a>
                             {{ end }}
                         </span>
                         <span class="byline"> 
                             Posted by 
                             <span class="author">
-                                <a href="#">{{ .Params.author_name }}</a>
+                                <a href="/about">{{ .Params.author_name }}</a>
                             </span>
                         </span>
                     </div>
                     <h1 class="s-hero__slide-text">
-                        <a href="#">{{ .Params.title }}</a>
+                        <a href="{{ .Permalink }}">{{ .Params.title }}</a>
                     </h1>
                 </div>
             </div>

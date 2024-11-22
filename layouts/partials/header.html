@@ -15,6 +15,7 @@
     <div class="row s-header__navigation">
         <nav class="s-header__nav-wrap">
             <ul class="s-header__nav">
+                {{ $currentPage := . }}
                 {{ range site.Menus.main }}
                     {{ if eq .Name "Categories" }}
                     <li class="has-children">
@@ -35,7 +36,7 @@
                         </ul>
                     </li>
                     {{ else }}
-                    <li class="{{ if eq .URL .Page.RelPermalink }} current {{ end }}"><a href="{{ .URL }}" title="">{{ .Name }}</a></li>
+                    <li class="{{ if $currentPage.IsMenuCurrent .Menu . }} current {{ end }}"><a href="{{ .URL }}" title="">{{ .Name }}</a></li>
                     {{ end }}
 
                 {{ end }}

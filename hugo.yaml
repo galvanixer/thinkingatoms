@@ -29,7 +29,7 @@ params:
   email: "urvashi.iitr@outlook.com"
 
 pagination:
-  pagerSize: 4
+  pagerSize: 10
 
 menus:
   main:

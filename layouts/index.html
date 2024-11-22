@@ -19,7 +19,8 @@
                 </div>
                 {{ $pages := where .Site.RegularPages "Section" "posts" }}
                 {{ $pages = $pages.ByDate}}
-                {{ range $pages }}
+                {{ $paginator := .Paginate $pages }}
+                {{ range $paginator.Pages }}
                 <article class="brick entry" data-aos="fade-up">
                     <div class="entry__thumb">
                         <a href="{{ .Permalink }}" class="thumb-link">
@@ -59,6 +60,51 @@
 
             </div> <!-- end bricks-wrapper -->
         </div> <!-- end masonry -->
+        <!-- Pagination -->
+ 
+        <div class="row">
+            <div class="column large-12">
+                <nav class="pgn">
+                    <ul>
+                        {{ if gt $paginator.TotalPages 1 }}
+                        <!-- Previous Page Link -->
+                            {{ if $paginator.HasPrev }}
+                            <li>
+                                <a class="pgn__prev" href="{{ $paginator.Prev.URL }}">Prev</a>
+                            </li>
+                            {{ else }}
+                            <li>
+                                <span class="pgn__prev">Prev</span>
+                            </li>
+                            {{ end }}
+            
+                            <!-- Page Numbers -->
+                            
+                        
+                            {{ range $paginator.Pagers }}
+                                {{ if eq .PageNumber $paginator.PageNumber }}
+                                    <span class="pgn__num current", href=""{{ .URL }}>{{ .PageNumber }}</span>
+                                {{ else }}
+                                    <a class="pgn__num" href="{{ .URL }}">{{ .PageNumber }}</a>
+                                {{ end }}
+                            {{ end }}
+                        
+
+                            <!-- Next Page Link -->
+                            {{ if $paginator.HasNext }}
+                            <li>
+                                <a class="pgn__next" href="{{ $paginator.Next.URL }}">Next</a>
+                            </li>
+                            {{ else }}
+                            <li>
+                                <span class="pgn__next">Next</span>
+                            </li>
+                            {{ end }}
+                        {{ end }}
+                    </ul>
+                </nav> <!-- end pgn -->
+            </div> <!-- end column -->
+        </div> <!-- end row -->
     </div>
 </section> <!-- end s-content -->
 
