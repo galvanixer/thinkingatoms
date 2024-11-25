@@ -3,7 +3,7 @@ title: "About"
 layout: "about"
 type: "miscellaneous"
 date: 2024-11-17
-featured_image: "/images/thumbs/about/about-1050.jpg"
+featured_image: "/images/thumbs/about/about-urvashi.jpg"
 featured_image_srcset: "/images/thumbs/about/about-2100.jpg 2100w, /images/thumbs/about/about-1050.jpg 1050w"
 featured_image_alt: "About"
 blocks:
