@@ -27,8 +27,9 @@
                     <span></span>
                 </div>
 
-                {{ $pages := where .Paginator.Pages "Params.categories" "intersect" (slice "ThinkBox" "Popular Science") }}
-                {{ range $pages }}
+                {{ $paginator := .Paginate (where .Pages "Params.categories" "intersect" (slice "ThinkBox" "Popular Science")) }}
+
+                {{ range $paginator.Pages }}
                 
                 <article class="brick entry" data-aos="fade-up">
 
@@ -72,17 +73,15 @@
         </div> <!-- end masonry -->
 
         <!-- Pagination -->
- 
         <div class="row">
             <div class="column large-12">
                 <nav class="pgn">
                     <ul>
-                        {{ $paginator := .Paginator }}
                         {{ if gt $paginator.TotalPages 1 }}
                         <!-- Previous Page Link -->
-                            {{ if .Paginator.HasPrev }}
+                            {{ if $paginator.HasPrev }}
                             <li>
-                                <a class="pgn__prev" href="{{ .Paginator.Prev.URL }}">Prev</a>
+                                <a class="pgn__prev" href="{{ $paginator.Prev.URL }}">Prev</a>
                             </li>
                             {{ else }}
                             <li>
@@ -92,7 +91,6 @@
             
                             <!-- Page Numbers -->
                             
-                        
                             {{ range $paginator.Pagers }}
                                 {{ if eq .PageNumber $paginator.PageNumber }}
                                     <span class="pgn__num current", href=""{{ .URL }}>{{ .PageNumber }}</span>
@@ -103,9 +101,9 @@
                         
 
                             <!-- Next Page Link -->
-                            {{ if .Paginator.HasNext }}
+                            {{ if $paginator.HasNext }}
                             <li>
-                                <a class="pgn__next" href="{{ .Paginator.Next.URL }}">Next</a>
+                                <a class="pgn__next" href="{{ $paginator.Next.URL }}">Next</a>
                             </li>
                             {{ else }}
                             <li>
