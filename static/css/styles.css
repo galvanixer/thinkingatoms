@@ -1803,9 +1803,16 @@ figure img+figcaption {
 
 figcaption {
     font-size: var(--text-sm);
-    text-align: center;
+    line-height: 1.3;
+    text-align: justify;
     margin-bottom: 0;
 }
+
+figcaption::before {
+    content: "Figure: ";
+    font-weight: bold; /* Optional: Make "Figure:" bold */
+    margin-right: 2px; /* Optional: Add some spacing */
+  }
 
 var, kbd, samp, code, pre {
     font-family: var(--font-mono);
