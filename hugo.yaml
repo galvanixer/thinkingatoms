@@ -1,7 +1,7 @@
 baseURL: "https://thinkingatoms.in/"
 languageCode: "en-us"
 title: "My New Hugo Site"
-theme: "ananke"
+theme: ["ananke", "hugo-simplecite"]
 
 taxonomies:
   category: "categories"
