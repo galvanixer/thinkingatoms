@@ -1,7 +1,7 @@
 <section id="hero" class="s-hero">
     <div class="s-hero__slider">
         {{ $pages := where .Site.RegularPages "Section" "posts" }}
-        {{ $pages = $pages.ByDate}}
+        {{ $pages = $pages.ByParam "heroweight"}}
         {{ range $pages }}
         {{ if .Params.showhero }}
         <div class="s-hero__slide">

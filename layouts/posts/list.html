@@ -27,7 +27,9 @@
                     <span></span>
                 </div>
 
-                {{ range .Paginator.Pages }}
+                {{ $pages := where .Paginator.Pages "Params.categories" "intersect" (slice "ThinkBox" "Popular Science") }}
+                {{ range $pages }}
+                
                 <article class="brick entry" data-aos="fade-up">
 
                     <div class="entry__thumb">

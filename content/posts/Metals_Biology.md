@@ -14,8 +14,10 @@ categories: ["Popular Science"]
 tags: ["popular science", "chemistry", "metals", "biology"]
 excerpt: "From Stardust to Life: The Epic Journey of Metals Across the Cosmos."
 showhero: true
-heroimage: "images/PopularScience/MetalsInBiology/hero.jpg" 
+heroimage: "images/PopularScience/MetalsInBiology/hero.jpg"
+heroweight: 1
 ---
+{{< bibliography "content/posts/bibtemp.json" >}}
 {{< lead >}}
 The story begins millions of years ago, when a few elements, heavier than others, started their journey from stardust and eventually ended up in our bloodstreams—making metals vital to life. Have you ever paused to think how the same iron that strengthens bridges also flows through our veins, powering our body? Or why copper, the go-to metal for electrical wires, plays a crucial role in our biological wiring too? The story of how these cosmic travelers ended up in our bodies, driving life’s most essential processes, is nothing short of spectacular. Let’s dive into the journey of these metals—from the fiery chaos of the universe to becoming life’s indispensable elements.
 {{< /lead >}}

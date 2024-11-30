@@ -17,7 +17,8 @@
                     <span></span>
                     <span></span>
                 </div>
-                {{ $pages := where .Site.RegularPages "Section" "posts" }}
+                {{ $allposts := where .Site.RegularPages "Section" "eq" "posts" }}
+                {{ $pages := where $allposts "Params.categories" "intersect" (slice "ThinkBox" "Popular Science") }}
                 {{ $pages = $pages.ByDate}}
                 {{ $paginator := .Paginate $pages }}
                 {{ range $paginator.Pages }}
