@@ -1,4 +1,800 @@
 [
-  {"id":"chomazDipolarPhysicsReview2023","abstract":"Abstract\n            Since the achievement of quantum degeneracy in gases of chromium atoms in 2004, the experimental investigation of ultracold gases made of highly magnetic atoms has blossomed. The field has yielded the observation of many unprecedented phenomena, in particular those in which long-range and anisotropic dipole–dipole interactions (DDIs) play a crucial role. In this review, we aim to present the aspects of the magnetic quantum-gas platform that make it unique for exploring ultracold and quantum physics as well as to give a thorough overview of experimental achievements. Highly magnetic atoms distinguish themselves by the fact that their electronic ground-state configuration possesses a large electronic total angular momentum. This results in a large magnetic moment and a rich electronic transition spectrum. Such transitions are useful for cooling, trapping, and manipulating these atoms. The complex atomic structure and large dipolar moments of these atoms also lead to a dense spectrum of resonances in their two-body scattering behaviour. These resonances can be used to control the interatomic interactions and, in particular, the relative importance of contact over dipolar interactions. These features provide exquisite control knobs for exploring the few- and many-body physics of dipolar quantum gases. The study of dipolar effects in magnetic quantum gases has covered various few-body phenomena that are based on elastic and inelastic anisotropic scattering. Various many-body effects have also been demonstrated. These affect both the shape, stability, dynamics, and excitations of fully polarised repulsive Bose or Fermi gases. Beyond the mean-field instability, strong dipolar interactions competing with slightly weaker contact interactions between magnetic bosons yield new quantum-stabilised states, among which are self-bound droplets, droplet assemblies, and supersolids. Dipolar interactions also deeply affect the physics of atomic gases with an internal degree of freedom as these interactions intrinsically couple spin and atomic motion. Finally, long-range dipolar interactions can stabilise strongly correlated excited states of 1D gases and also impact the physics of lattice-confined systems, both at the spin-polarised level (Hubbard models with off-site interactions) and at the spinful level (XYZ models). In the present manuscript, we aim to provide an extensive overview of the various related experimental achievements up to the present.","accessed":{"date-parts":[["2024",11,29]]},"author":[{"family":"Chomaz","given":"Lauriane"},{"family":"Ferrier-Barbut","given":"Igor"},{"family":"Ferlaino","given":"Francesca"},{"family":"Laburthe-Tolra","given":"Bruno"},{"family":"Lev","given":"Benjamin L"},{"family":"Pfau","given":"Tilman"}],"citation-key":"chomazDipolarPhysicsReview2023","container-title":"Reports on Progress in Physics","container-title-short":"Rep. Prog. Phys.","DOI":"10.1088/1361-6633/aca814","ISSN":"0034-4885, 1361-6633","issue":"2","issued":{"date-parts":[["2023",2,1]]},"page":"026401","source":"DOI.org (Crossref)","title":"Dipolar physics: a review of experiments with magnetic quantum gases","title-short":"Dipolar physics","type":"article-journal","URL":"https://iopscience.iop.org/article/10.1088/1361-6633/aca814","volume":"86"},
-  {"id":"KetterleBEC2002","accessed":{"date-parts":[["2024",11,5]]},"author":[{"family":"Anglin","given":"James R."},{"family":"Ketterle","given":"Wolfgang"}],"citation-key":"KetterleBEC2002","container-title":"Nature","container-title-short":"Nature","DOI":"10.1038/416211a","ISSN":"0028-0836, 1476-4687","issue":"6877","issued":{"date-parts":[["2002",3]]},"language":"en","license":"http://www.springer.com/tdm","page":"211-218","source":"DOI.org (Crossref)","title":"Bose–Einstein condensation of atomic gases","type":"article-journal","URL":"https://www.nature.com/articles/416211a","volume":"416"}
+	{
+		"id": "chenRelativeContributionHeavy2021",
+		"type": "article-journal",
+		"abstract": "Abstract\n            \n              The origin of the heavy elements in the universe is not fully determined. Neutron star–black hole (NSBH) and binary neutron star (BNS) mergers may both produce heavy elements via rapid neutron-capture (\n              r\n              -process). We use the recent detection of gravitational waves from NSBHs, improved measurements of the neutron star equation of state (EoS), and the most modern numerical simulations of ejected material from binary collisions to measure the relative contribution of NSBHs and BNSs to the production of heavy elements. As the amount of\n              r\n              -process ejecta depends on the mass and spin distribution of the compact objects, as well as on the EoS of the neutron stars, we consider various models for these quantities, informed by gravitational-wave and pulsar data. We find that in most scenarios, BNSs have produced more\n              r\n              -process elements than NSBHs over the past 2.5 billion years. If black holes have preferentially small spins, BNSs can produce at least twice the amount of\n              r\n              -process elements than NSBHs. If black hole spins are small and there is a dearth of low-mass (<5\n              M\n              ⊙\n              ) black holes within NSBH binaries, BNSs can account for the near totality of the\n              r\n              -process elements from binaries. For NSBH to produce a large fraction of\n              r\n              -process elements, black holes in NSBHs must have small masses and large aligned spins, which is disfavored by current data.",
+		"container-title": "The Astrophysical Journal Letters",
+		"DOI": "10.3847/2041-8213/ac26c6",
+		"ISSN": "2041-8205, 2041-8213",
+		"issue": "1",
+		"journalAbbreviation": "ApJL",
+		"page": "L3",
+		"source": "DOI.org (Crossref)",
+		"title": "The Relative Contribution to Heavy Metals Production from Binary Neutron Star Mergers and Neutron Star–Black Hole Mergers",
+		"URL": "https://iopscience.iop.org/article/10.3847/2041-8213/ac26c6",
+		"volume": "920",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Hsin-Yu"
+			},
+			{
+				"family": "Vitale",
+				"given": "Salvatore"
+			},
+			{
+				"family": "Foucart",
+				"given": "Francois"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "prialnikIntroductionTheoryStellar2010",
+		"type": "book",
+		"call-number": "523.88",
+		"edition": "2nd ed",
+		"event-place": "Cambridge",
+		"ISBN": "978-0-521-86604-0",
+		"language": "eng",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"source": "BnF ISBN",
+		"title": "An introduction to the theory of stellar structure and evolution",
+		"author": [
+			{
+				"family": "Prialnik",
+				"given": "Dina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "korenagaVestigesImpactdrivenThreephase2023",
+		"type": "article-journal",
+		"abstract": "Highly siderophile elements (HSEs; namely Ru, Rh, Pd, Re, Os, Ir, Pt, and Au) in Earth’s mantle require the addition of metals after the formation of Earth’s core. Early, large collisions have the potential to deliver metals, but the details of their mixing with Earth’s mantle remain unresolved. As a large projectile disrupts and penetrates Earth’s mantle, a fraction of its metallic core may directly merge with Earth’s core. Ensuing gravitational instabilities remove the remaining projectile’s core stranded in Earth’s mantle, leaving the latter deprived of HSEs. Here, we propose a framework that can efficiently retain the metallic components during large impacts. The mechanism is based on the ubiquitous presence of a partially molten region in the mantle beneath an impact-generated magma ocean, and it involves rapid three-phase flow with solid silicate, molten silicate, and liquid metal as well as long-term mixing by mantle convection. In addition, large low-shear-velocity provinces in the lower mantle may originate from compositional heterogeneities resulting from the proposed three-phase flow during high-energy collisions.",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"DOI": "10.1073/pnas.2309181120",
+		"ISSN": "0027-8424, 1091-6490",
+		"issue": "43",
+		"journalAbbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+		"language": "en",
+		"page": "e2309181120",
+		"source": "DOI.org (Crossref)",
+		"title": "Vestiges of impact-driven three-phase mixing in the chemistry and structure of Earth’s mantle",
+		"URL": "https://pnas.org/doi/10.1073/pnas.2309181120",
+		"volume": "120",
+		"author": [
+			{
+				"family": "Korenaga",
+				"given": "Jun"
+			},
+			{
+				"family": "Marchi",
+				"given": "Simone"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "AsteroidsMetals2011",
+		"type": "webpage",
+		"abstract": "Asteroids bombarding the Earth when it was forming may have deposited many of the precious metals found in Earth's upper layers. Learn more about the Late Heavy Bombardment era and Earth’s formation.",
+		"container-title": "livescience.com",
+		"language": "en",
+		"title": "Asteroids May Have Brought Precious Metals to Earth",
+		"URL": "https://www.livescience.com/15938-earth-precious-metals-space-origin.html",
+		"author": [
+			{
+				"family": "published",
+				"given": "Charles Q. Choi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					9,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "HemoglobinsHemocyanins",
+		"type": "article-journal",
+		"abstract": "Abstract\n            \n              Comparative studies of protein structure and function can be quite interesting by themselves, and even more interesting when interpreted with respect to an animal's physiology. In the case of fish hemoglobins, some success in the latter has been achieved but there are still many unsolved problems. It appears that comparative physiology and biochemistry have entered an era where results from comparative studies can shed a great deal of light on biochemical mechanisms in general. The trout hemoglobin system is an example. Distinctive hemoglobins in this system are presently being used as high resolution probes of the ligand‐binding mechanism. Characterization of the multiple, structurally distinct subunits of the 60S\n              Limulus\n              hemocyanin molecule may similarly aid in understanding its function.\n            \n            \n              Our studies suggest the possibility of using\n              Limulus\n              hemocyanin and other hemocyanins as structural homologs and analogs of more complex macromolecular arrays. The rapid development of molecular structural data from X‐ray crystallographers combined with the vast data of comparative physiology and biochemistry makes this one of the most exciting areas in present day science.",
+		"container-title": "Journal of Experimental Zoology",
+		"DOI": "10.1002/jez.1401940110",
+		"ISSN": "0022-104X, 1097-010X",
+		"issue": "1",
+		"journalAbbreviation": "J. Exp. Zool.",
+		"language": "en",
+		"license": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+		"page": "155-174",
+		"source": "DOI.org (Crossref)",
+		"title": "Hemoglobins and hemocyanins: Comparative aspects of structure and function",
+		"title-short": "Hemoglobins and hemocyanins",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1002/jez.1401940110",
+		"volume": "194",
+		"author": [
+			{
+				"family": "Bonaventura",
+				"given": "Joseph"
+			},
+			{
+				"family": "Bonaventura",
+				"given": "Celia"
+			},
+			{
+				"family": "Sullivan",
+				"given": "Bolling"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1975",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "lutzManyColorsBlood2010",
+		"type": "article-journal",
+		"container-title": "ChemMatters",
+		"language": "en",
+		"title": "The Many Colors of Blood",
+		"URL": "https://www.acs.org/content/dam/acsorg/education/resources/highschool/chemmatters/issues/best-of-chemmatters/sample-lesson-plan-the-many-colors-of-blood.pdf",
+		"author": [
+			{
+				"family": "Lutz",
+				"given": "Diana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "MitochondrialIronMetabolism2022",
+		"type": "article-journal",
+		"abstract": "Iron is a trace element necessary for cell growth, development, and cellular homeostasis, but insufficient or excessive level of iron is toxic. Intracellularly, sufficient amounts of iron are required for mitochondria (the center of iron utilization) to maintain their normal physiologic function. Iron deficiency impairs mitochondrial metabolism and respiratory activity, while mitochondrial iron overload promotes ROS production during mitochondrial electron transport, thus promoting potential disease development. This review provides an overview of iron homeostasis, mitochondrial iron metabolism, and how mitochondrial iron imbalances-induced mitochondrial dysfunction contribute to diseases.",
+		"container-title": "Molecules",
+		"DOI": "10.3390/molecules28010029",
+		"ISSN": "1420-3049",
+		"issue": "1",
+		"journalAbbreviation": "Molecules",
+		"language": "en",
+		"license": "https://creativecommons.org/licenses/by/4.0/",
+		"page": "29",
+		"source": "DOI.org (Crossref)",
+		"title": "Mitochondrial Iron Metabolism: The Crucial Actors in Diseases",
+		"title-short": "Mitochondrial Iron Metabolism",
+		"URL": "https://www.mdpi.com/1420-3049/28/1/29",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Duan",
+				"given": "Geyan"
+			},
+			{
+				"family": "Li",
+				"given": "Jianjun"
+			},
+			{
+				"family": "Duan",
+				"given": "Yehui"
+			},
+			{
+				"family": "Zheng",
+				"given": "Changbing"
+			},
+			{
+				"family": "Guo",
+				"given": "Qiuping"
+			},
+			{
+				"family": "Li",
+				"given": "Fengna"
+			},
+			{
+				"family": "Zheng",
+				"given": "Jie"
+			},
+			{
+				"family": "Yu",
+				"given": "Jiayi"
+			},
+			{
+				"family": "Zhang",
+				"given": "Peiwen"
+			},
+			{
+				"family": "Wan",
+				"given": "Mengliao"
+			},
+			{
+				"family": "Long",
+				"given": "Cimin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "EssentialMetalsHealth2022",
+		"type": "article-journal",
+		"container-title": "Chemico-Biological Interactions",
+		"DOI": "10.1016/j.cbi.2022.110173",
+		"ISSN": "00092797",
+		"journalAbbreviation": "Chemico-Biological Interactions",
+		"language": "en",
+		"page": "110173",
+		"source": "DOI.org (Crossref)",
+		"title": "Essential metals in health and disease",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0009279722003787",
+		"volume": "367",
+		"author": [
+			{
+				"family": "Jomova",
+				"given": "Klaudia"
+			},
+			{
+				"family": "Makova",
+				"given": "Marianna"
+			},
+			{
+				"family": "Alomar",
+				"given": "Suliman Y."
+			},
+			{
+				"family": "Alwasel",
+				"given": "Saleh H."
+			},
+			{
+				"family": "Nepovimova",
+				"given": "Eugenie"
+			},
+			{
+				"family": "Kuca",
+				"given": "Kamil"
+			},
+			{
+				"family": "Rhodes",
+				"given": "Christopher J."
+			},
+			{
+				"family": "Valko",
+				"given": "Marian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "MetalsDisease2012",
+		"type": "article-journal",
+		"container-title": "Journal of Toxicology",
+		"DOI": "10.1155/2012/825354",
+		"ISSN": "1687-8191, 1687-8205",
+		"journalAbbreviation": "Journal of Toxicology",
+		"language": "en",
+		"license": "http://creativecommons.org/licenses/by/3.0/",
+		"page": "1-2",
+		"source": "DOI.org (Crossref)",
+		"title": "Metals and Disease",
+		"URL": "http://www.hindawi.com/journals/jt/2012/825354/",
+		"volume": "2012",
+		"author": [
+			{
+				"family": "Florea",
+				"given": "Ana-Maria"
+			},
+			{
+				"family": "Büsselberg",
+				"given": "Dietrich"
+			},
+			{
+				"family": "Carpenter",
+				"given": "David"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "CopperSignalingMammalian2013",
+		"type": "article-journal",
+		"abstract": "Abstract\n            \n              Copper is an essential metal present at high levels in the CNS. Its role as a cofactor in mitochondrial ATP production and in essential cuproenzymes is well defined. Menkes and Wilson's diseases are severe neurodegenerative conditions that demonstrate the importance of Cu transport into the secretory pathway. In the brain, intracellular levels of Cu, which is almost entirely protein bound, exceed extracellular levels by more than 100‐fold. Cu stored in the secretory pathway is released in a Ca\n              2+\n              ‐dependent manner and can transiently reach concentrations over 100 μM at synapses. The ability of low micromolar levels of Cu to bind to and modulate the function of γ‐aminobutyric acid type A (GABA\n              A\n              ) receptors, N‐methyl‐D‐aspartate (NMDA) receptors, and voltage‐gated Ca\n              2+\n              channels contributes to its effects on synaptic transmission. Cu also binds to amyloid precursor protein and prion protein; both proteins are found at synapses and brain Cu homeostasis is disrupted in mice lacking either protein. Especially intriguing is the ability of Cu to affect AMP‐activated protein kinase (AMPK), a monitor of cellular energy status. Despite this, few investigators have examined the direct effects of Cu on synaptic transmission and plasticity. Although the variability of results demonstrates complex influences of Cu that are highly method sensitive, these studies nevertheless strongly support important roles for endogenous Cu and new roles for Cu‐binding proteins in synaptic function/plasticity and behavior. Further study of the many roles of Cu in nervous system function will reveal targets for intervention in other diseases in which Cu homeostasis is disrupted. © 2012 Wiley Periodicals, Inc.",
+		"container-title": "Journal of Neuroscience Research",
+		"DOI": "10.1002/jnr.23143",
+		"ISSN": "0360-4012, 1097-4547",
+		"issue": "1",
+		"journalAbbreviation": "J of Neuroscience Research",
+		"language": "en",
+		"license": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+		"page": "2-19",
+		"source": "DOI.org (Crossref)",
+		"title": "Copper signaling in the mammalian nervous system: Synaptic effects",
+		"title-short": "Copper signaling in the mammalian nervous system",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1002/jnr.23143",
+		"volume": "91",
+		"author": [
+			{
+				"family": "Gaier",
+				"given": "E.D."
+			},
+			{
+				"family": "Eipper",
+				"given": "B.A."
+			},
+			{
+				"family": "Mains",
+				"given": "R.E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "RoleCopperMitochondrial2021",
+		"type": "article-journal",
+		"abstract": "Copper is essential for life processes like energy metabolism, reactive oxygen species detoxification, iron uptake, and signaling in eukaryotic organisms. Mitochondria gather copper for the assembly of cuproenzymes such as the respiratory complex IV, cytochrome c oxidase, and the antioxidant enzyme superoxide dismutase 1. In this regard, copper plays a role in mitochondrial function and signaling involving bioenergetics, dynamics, and mitophagy, which affect cell fate by means of metabolic reprogramming. In mammals, copper homeostasis is tightly regulated by the liver. However, cellular copper levels are tissue specific. Copper imbalances, either overload or deficiency, have been associated with many diseases, including anemia, neutropenia, and thrombocytopenia, as well as tumor development and cancer aggressivity. Consistently, new pharmacological developments have been addressed to reduce or exacerbate copper levels as potential cancer therapies. This review goes over the copper source, distribution, cellular uptake, and its role in mitochondrial function, metabolic reprograming, and cancer biology, linking copper metabolism with the field of regenerative medicine and cancer.",
+		"container-title": "Frontiers in Molecular Biosciences",
+		"DOI": "10.3389/fmolb.2021.711227",
+		"ISSN": "2296-889X",
+		"journalAbbreviation": "Front. Mol. Biosci.",
+		"page": "711227",
+		"source": "DOI.org (Crossref)",
+		"title": "Role of Copper on Mitochondrial Function and Metabolism",
+		"URL": "https://www.frontiersin.org/articles/10.3389/fmolb.2021.711227/full",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Ruiz",
+				"given": "Lina M."
+			},
+			{
+				"family": "Libedinsky",
+				"given": "Allan"
+			},
+			{
+				"family": "Elorza",
+				"given": "Alvaro A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					8,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "ATPADP",
+		"type": "webpage",
+		"title": "ATP and ADP",
+		"URL": "https://www2.nau.edu/lrm22/lessons/atp/atp.html",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "ZincBiologicalFunctions2023",
+		"type": "article-journal",
+		"abstract": "The trace element zinc (Zn) displays a wide range of biological functions. Zn ions control intercellular communication and intracellular events that maintain normal physiological processes. These effects are achieved through the modulation of several Zn-dependent proteins, including transcription factors and enzymes of key cell signaling pathways, namely those involved in proliferation, apoptosis, and antioxidant defenses. Efficient homeostatic systems carefully regulate intracellular Zn concentrations. However, perturbed Zn homeostasis has been implicated in the pathogenesis of several chronic human diseases, such as cancer, diabetes, depression, Wilson’s disease, Alzheimer’s disease, and other age-related diseases. This review focuses on Zn’s roles in cell proliferation, survival/death, and DNA repair mechanisms, outlines some biological Zn targets, and addresses the therapeutic potential of Zn supplementation in some human diseases.",
+		"container-title": "International Journal of Molecular Sciences",
+		"DOI": "10.3390/ijms24054822",
+		"ISSN": "1422-0067",
+		"issue": "5",
+		"journalAbbreviation": "IJMS",
+		"language": "en",
+		"license": "https://creativecommons.org/licenses/by/4.0/",
+		"page": "4822",
+		"source": "DOI.org (Crossref)",
+		"title": "Zinc: From Biological Functions to Therapeutic Potential",
+		"title-short": "Zinc",
+		"URL": "https://www.mdpi.com/1422-0067/24/5/4822",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Costa",
+				"given": "Maria Inês"
+			},
+			{
+				"family": "Sarmento-Ribeiro",
+				"given": "Ana Bela"
+			},
+			{
+				"family": "Gonçalves",
+				"given": "Ana Cristina"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "CellularZincMetabolism2024",
+		"type": "article-journal",
+		"abstract": "Abstract\n            \n              Zinc metabolism at the cellular level is critical for many biological processes in the body. A key observation is the disruption of cellular homeostasis, often coinciding with disease progression. As an essential factor in maintaining cellular equilibrium, cellular zinc has been increasingly spotlighted in the context of disease development. Extensive research suggests zinc’s involvement in promoting malignancy and invasion in cancer cells, despite its low tissue concentration. This has led to a growing body of literature investigating zinc’s cellular metabolism, particularly the functions of zinc transporters and storage mechanisms during cancer progression. Zinc transportation is under the control of two major transporter families:\n              SLC30\n              (ZnT) for the excretion of zinc and\n              SLC39\n              (ZIP) for the zinc intake. Additionally, the storage of this essential element is predominantly mediated by metallothioneins (MTs). This review consolidates knowledge on the critical functions of cellular zinc signaling and underscores potential molecular pathways linking zinc metabolism to disease progression, with a special focus on cancer. We also compile a summary of clinical trials involving zinc ions. Given the main localization of zinc transporters at the cell membrane, the potential for targeted therapies, including small molecules and monoclonal antibodies, offers promising avenues for future exploration.",
+		"container-title": "Signal Transduction and Targeted Therapy",
+		"DOI": "10.1038/s41392-023-01679-y",
+		"ISSN": "2059-3635",
+		"issue": "1",
+		"journalAbbreviation": "Sig Transduct Target Ther",
+		"language": "en",
+		"page": "6",
+		"source": "DOI.org (Crossref)",
+		"title": "Cellular zinc metabolism and zinc signaling: from biological functions to diseases and therapeutic targets",
+		"title-short": "Cellular zinc metabolism and zinc signaling",
+		"URL": "https://www.nature.com/articles/s41392-023-01679-y",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Bonan"
+			},
+			{
+				"family": "Yu",
+				"given": "Peiyao"
+			},
+			{
+				"family": "Chan",
+				"given": "Wai Nok"
+			},
+			{
+				"family": "Xie",
+				"given": "Fuda"
+			},
+			{
+				"family": "Zhang",
+				"given": "Yigan"
+			},
+			{
+				"family": "Liang",
+				"given": "Li"
+			},
+			{
+				"family": "Leung",
+				"given": "Kam Tong"
+			},
+			{
+				"family": "Lo",
+				"given": "Kwok Wai"
+			},
+			{
+				"family": "Yu",
+				"given": "Jun"
+			},
+			{
+				"family": "Tse",
+				"given": "Gary M. K."
+			},
+			{
+				"family": "Kang",
+				"given": "Wei"
+			},
+			{
+				"family": "To",
+				"given": "Ka Fai"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "CellDivisionStages",
+		"type": "webpage",
+		"abstract": "Fully understanding the mechanisms of mitosis remains one of the greatest challenges facing modern biologists. During mitosis, two identical copies of the genome are packaged into chromosomes that are distributed equally between two daughter nuclei by a highly dynamic spindle structure. Mitosis is truly a molecular spectacle, involving hundreds of cellular proteins in a highly regulated sequence of movements. Defects in mitosis are catastrophic, as they produce cells with abnormal numbers of chromosomes.",
+		"language": "en",
+		"note": "Cg_cat: Mitosis and Cell Division\nCg_level: ESY\nCg_topic: Mitosis and Cell Division",
+		"title": "Cell Division: Stages of Mitosis | Learn Science at Scitable",
+		"title-short": "Cell Division",
+		"URL": "http://www.nature.com/scitable/topicpage/mitosis-and-cell-division-205",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "MeasuringMitoticForces2018",
+		"type": "chapter",
+		"container-title": "Methods in Cell Biology",
+		"ISBN": "978-0-12-814144-1",
+		"language": "en",
+		"license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+		"note": "DOI: 10.1016/bs.mcb.2018.03.007",
+		"page": "165-184",
+		"publisher": "Elsevier",
+		"source": "DOI.org (Crossref)",
+		"title": "Measuring mitotic forces",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0091679X18300074",
+		"volume": "144",
+		"author": [
+			{
+				"family": "Ye",
+				"given": "Anna A."
+			},
+			{
+				"family": "Maresca",
+				"given": "Thomas J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "HemoglobinStructureTypes2023",
+		"type": "webpage",
+		"abstract": "Hemoglobin is a complex iron-containing protein found in erythrocytes (red blood cells) of most vertebrates that plays a vital role in carrying oxygen and carbon dioxide within the blood.",
+		"language": "en-US",
+		"note": "section: Human Anatomy and Physiology",
+		"title": "Hemoglobin: Structure, Types, Functions, Diseases",
+		"title-short": "Hemoglobin",
+		"URL": "https://microbenotes.com/hemoglobin/",
+		"author": [
+			{
+				"family": "Dahal",
+				"given": "Prashant"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "CopperBiology2021",
+		"type": "article-journal",
+		"container-title": "Current Biology",
+		"DOI": "10.1016/j.cub.2021.03.054",
+		"ISSN": "09609822",
+		"issue": "9",
+		"journalAbbreviation": "Current Biology",
+		"language": "en",
+		"page": "R421-R427",
+		"source": "DOI.org (Crossref)",
+		"title": "Copper biology",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0960982221004279",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Tsang",
+				"given": "Tiffany"
+			},
+			{
+				"family": "Davis",
+				"given": "Caroline I."
+			},
+			{
+				"family": "Brady",
+				"given": "Donita C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					5
+				]
+			]
+		}
+	}
 ]
