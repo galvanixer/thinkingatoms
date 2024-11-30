@@ -1,6 +1,8 @@
 ---
 title: "Intelligence of the Ignorant One"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_hrensko.png"
+author_url: "/about"
 date: 2024-08-08
 postcover:
     image: "images/posts/Intelligence_Ignorant/header.jpeg"
@@ -8,13 +10,12 @@ postcover:
 cover:
     image: "images/posts/Intelligence_Ignorant/CoverSquare.jpeg"
     alt: "A little girl cooking."
-author_avatar: "images/authorimages/urvashi_udaipur.jpeg"
-author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "life", "society"]
 excerpt: "Exploring the unexpected charm of ignorance—how knowing less can spark curiosity, resilience, and fresh possibilities."
 showhero: true
 heroimage: "images/slide2-bg-3000.jpg" 
+heroweight: 3
 ---
 {{< lead >}}
 Let’s start with this idea: “One should never be completely ignorant.” Why? Because being ignorant can sometimes cause us to misinterpret a lack of effort or understanding as cleverness or strength.

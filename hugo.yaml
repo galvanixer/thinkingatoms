@@ -34,7 +34,7 @@ params:
   email: "urvashi.iitr@outlook.com"
 
 pagination:
-  pagerSize: 10
+  pagerSize: 8
 
 menus:
   main:

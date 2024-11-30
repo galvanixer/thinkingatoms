@@ -18,8 +18,8 @@
                     <span></span>
                 </div>
                 {{ $allposts := where .Site.RegularPages "Section" "eq" "posts" }}
-                {{ $pages := where $allposts "Params.categories" "intersect" (slice "ThinkBox" "Popular Science") }}
-                {{ $pages = $pages.ByDate}}
+                {{ $pages := where $allposts "Params.categories" "intersect" (slice "Popular Science" "ThinkBox") }}
+                {{ $pages = $pages.ByDate.Reverse }}
                 {{ $paginator := .Paginate $pages }}
                 {{ range $paginator.Pages }}
                 <article class="brick entry" data-aos="fade-up">

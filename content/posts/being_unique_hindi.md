@@ -10,7 +10,7 @@ postcover:
 cover:
     image: "images/posts/beinghumanbeingunique/CoverSquare.jpeg"
     alt: "Study room with a window."
-categories: ["Hindi Cover"]
+categories: ["Hindi Corner"]
 tags: ["philosophy", "nature", "life", "hindi"]
 excerpt: "प्रकृति की सरलता और हमारे दिखावे के बीच के अंतर पर एक टिप्पणी। साधारण ज़रूरतों को अनावश्यक जटिलता में बदलने की हमारी आदत पर एक नज़र।"
 ---

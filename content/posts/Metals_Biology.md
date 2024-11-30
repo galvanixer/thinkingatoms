@@ -17,7 +17,6 @@ showhero: true
 heroimage: "images/PopularScience/MetalsInBiology/hero.jpg"
 heroweight: 1
 ---
-{{< bibliography "content/posts/bibtemp.json" >}}
 {{< lead >}}
 The story begins millions of years ago, when a few elements, heavier than others, started their journey from stardust and eventually ended up in our bloodstreams—making metals vital to life. Have you ever paused to think how the same iron that strengthens bridges also flows through our veins, powering our body? Or why copper, the go-to metal for electrical wires, plays a crucial role in our biological wiring too? The story of how these cosmic travelers ended up in our bodies, driving life’s most essential processes, is nothing short of spectacular. Let’s dive into the journey of these metals—from the fiery chaos of the universe to becoming life’s indispensable elements.
 {{< /lead >}}
@@ -30,7 +29,7 @@ These elemental riches scattered across space, in the form of enormous gas and d
     srcset=""
     sizes=""
     alt="An example image"
-    caption="This is an image with srcset and caption."
+    caption="Periodic Table of Life: Essential elements for biological systems are highlighted in black, showcasing their indispensable role in life’s processes. Elements suggested to be essential, but not yet universally confirmed, are marked in navy blue, hinting at their potential significance in the web of life."
 >}}
 
 So, how did these metals journey from lifeless rocks to living organisms? As life began to emerge on Earth, metals found their way into biological systems. Why? Their unique properties make them perfect for biochemical reactions. Metals can easily transfer electrons, making them powerful catalysts for energy production and other vital processes. Over billions of years, life evolved to use these cosmic leftovers as the building blocks for survival.
@@ -44,7 +43,7 @@ Naturally, the conversation must begin with **Iron**—the ultimate lifeline met
     srcset=""
     sizes=""
     alt="An example image"
-    caption="This is an image with srcset and caption."
+    caption="This illustration showcases the heme structure, where iron (Fe²⁺) lies at the center of the molecule, enabling hemoglobin’s vital role in carrying oxygen through the bloodstream. The protein’s complex quaternary structure (α1, α2, β1, β2 subunits) works harmoniously to ensure efficient oxygen delivery to tissues. Image taken from https://microbenotes.com/hemoglobin/"
 >}}
 
 Interestingly, iron is not the only player for oxygen transport throughout the animal kingdom; some invertebrates use hemocyanin for oxygen transport. Unlike hemoglobin, which contains iron, hemocyanin contains copper. When copper shifts between its 1+ and 2+ oxidation states, it binds oxygen and surprisingly, it gives a striking blue color to the blood. [2]
@@ -72,14 +71,14 @@ One of copper’s key roles is helping cells produce energy. Inside our cells, c
     srcset=""
     sizes=""
     alt="An example image"
-    caption="This is an image with srcset and caption."
+    caption="An intricate map of copper’s journey within cells: from its entry via transporters like CTR1, to its roles in energy metabolism (cytochrome c oxidase), synthesis of bio-compounds (lysyl oxidase, dopamine β-hydroxylase), and signaling pathways (mTOR and RAF). Copper’s dynamic movement highlights its vital functions in maintaining cellular energy, regulating oxidative stress, and driving metabolic and signaling processes necessary for life. https://doi.org/10.1016/j.cub.2021.03.054"
 >}}
 
 Copper also helps protect our cells. When our cells make energy, they produce **reactive oxygen species (ROS)**, which can be harmful if they build up. Copper helps control these by being part of another enzyme called **superoxide dismutase 1 (SOD1)**, which neutralizes ROS and keeps our cells safe from damage. Also, copper helps our body use **iron** properly. Iron is needed for making parts inside our cells that are crucial for energy production. Copper makes sure iron works correctly, ensuring everything runs smoothly inside our cells. [1]
 
 Copper helps carry electrical signals between nerve cells, ensuring that your brain and body are always in sync. Copper binds to important receptors in the brain, (like GABAA and NMDA) and also interacts with channels that control calcium flow in nerve cells. When calcium signals are sent, copper is released at synapses (the points where nerve cells meet), helping manage how cells communicate with each other and allowing your brain to adapt and learn. Think of copper as the “connector” that helps everything stay in sync. Without it, your body would have trouble functioning properly, much like a phone without a charger. Too little copper can make you feel tired, while too much can harm your liver. So, it’s important to maintain the right balance of copper for a healthy, energetic life.
 
-{{< callout_heading color="red" title="Did you know?" iconstyle="duotone" icon="bird" >}}
+{{< callout_heading color="green" title="Did you know?" iconstyle="duotone" icon="cow" >}}
 Why do we need food and oxygen to survive? Metabolism is the sum of all chemical reactions in your cells that sustain life. These reactions are divided into **anabolism**, which uses energy to build molecules, and **catabolism**, which breaks down molecules to release stored energy. Think of it like a LEGO set, food is broken down into its basic building blocks (like proteins, fats, and carbohydrates), which can either release energy or be reassembled into essential body components like muscles or bones.
 
 The energy released during food breakdown is stored in a molecule called **ATP (adenosine triphosphate)**, the cell’s rechargeable battery. When energy is needed, ATP loses a phosphate group, becoming ADP (adenosine diphosphate) and releasing energy. When the cell has extra energy, it recharges ATP by adding a phosphate back to ADP.
@@ -96,13 +95,13 @@ Now, let’s come to the **Zinc**, the master regulator. Zinc might not be flash
     srcset=""
     sizes=""
     alt="An example image"
-    caption="This is an image with srcset and caption."
+    caption="Process of Mitosis. Mitosis is the process by which a cell divides and replicates its DNA, resulting in two genetically identical daughter cells. During mitosis, the chromosomes in the cell nucleus condense and the nuclear envelope breaks down.The chromosomes are then separated by the spindle fibers and pulled to opposite sides of the cell. Finally, the cell divides, forming two new nuclei with identical genetic information. This process is necessary for tissue growth and repair in multicellular organisms."
 >}}
 
 Zinc is an essential mineral for the body, especially for cell growth, division, and repair. It plays a crucial role in synthesizing DNA and proteins, which are necessary for cells to reproduce and function properly. Zinc also helps activate enzymes that regulate the cell cycle, the process that controls how cells divide. If there is not enough zinc, cell division can slow down or even stop. Zinc is also involved in several signaling pathways that control cell growth. One of these is related to IGF (Insulin-like Growth Factor), a hormone that helps stimulate cell division and growth. Zinc supports the activity of IGF-1 by enhancing its ability to bind to its receptor, which activates a cascade of signals that promote cell proliferation. In addition, zinc plays a role in the structure of microtubules, which are important for cell division and maintaining cell shape. Without zinc, the assembly of these structures can be impaired, affecting the ability of cells to divide properly. Overall, zinc is vital for maintaining healthy cell functions, especially for growth and repair.[2]
 
 
-{{< callout_heading color="blue" title="Did you know?" iconstyle="duotone" icon="lightbulb" >}}
+{{< callout_heading color="green" title="Did you know?" iconstyle="duotone" icon="cow" >}}
 Cell division is far more crucial to our lives than we often realize. The very process that drives reproduction in single-celled organisms is also the foundation for our body’s growth and ability to heal. In unicellular organisms, **binary fission** is the key to life’s continuation, one cell divides to create two identical cells, forming a whole new organism. In our bodies, the process is slightly different but just as essential. **Mitosis** enables us to grow, repair, and regenerate. Each time a cell divides, it forms two identical daughter cells, allowing us to grow from a single fertilized egg into a fully developed organism and heal wounds as they occur.
 
 For example, when you get a cut, the cells around the wound begin to divide rapidly, helping to form new tissue and close the wound. But this process isn’t just about growth; it’s critical for replacing damaged or dead cells, ensuring the body stays healthy and functions properly. While **mitosis** ensures that daughter cells maintain the same number of chromosomes, **meiosis**—another type of cell division—reduces the chromosome number by half, which is necessary for the creation of egg and sperm cells, enabling reproduction. Together, these processes maintain the balance of life, ensuring that organisms can grow, repair, and reproduce across generations. [3, 4]

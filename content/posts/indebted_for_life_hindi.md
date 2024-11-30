@@ -10,7 +10,7 @@ postcover:
 cover:
     image: "images/posts/Indebt/CoverSquare.jpeg"
     alt: "A girl with her mother."
-categories: ["Hindi Cover"]
+categories: ["Hindi Corner"]
 tags: ["people", "life", "love", "hindi"]
 excerpt: "रक्षाबंधन के तोहफों से परे, यह कहानी रिश्तों की गहराई और उन अनमोल उपहारों की है जो केवल सच्चे प्यार और समझ से दिए जाते हैं। ऐसे उपहार जो जीवनभर के लिए कृतज्ञता और यादों का पुल बन जाते हैं।"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Indebted for Life "
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_hrensko.png"
+author_url: "/about"
 date: 2024-08-10
 postcover:
     image: "images/posts/Indebt/header.jpeg"
@@ -8,8 +10,6 @@ postcover:
 cover:
     image: "images/posts/Indebt/CoverSquare.jpeg"
     alt: "A girl with her mother."
-author_avatar: "images/authorimages/urvashi_bindi.jpeg"
-author_url: "#"
 categories: ["ThinkBox"]
 tags: ["people", "life", "love"]
 excerpt: "Reflecting on Rakhi and a special bond with some people—gifts that go beyond material value to create lasting connections."

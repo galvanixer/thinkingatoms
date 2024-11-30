@@ -1,6 +1,8 @@
 ---
 title: "People who are Meant to Stay"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_hrensko.png"
+author_url: "/about"
 date: 2024-10-24
 postcover:
     image: "images/posts/People_Stay/header.jpeg"
@@ -8,8 +10,6 @@ postcover:
 cover:
     image: "images/posts/People_Stay/CoverSquare.jpeg"
     alt: "People who are Meant to Stay."
-author_avatar: "images/authorimages/urvashi_bindi.jpeg"
-author_url: "#"
 categories: ["ThinkBox"]
 tags: ["people", "life", "love"]
 excerpt: "Missing home this Diwali, I reflect on family, childhood bonds, and the simple yet profound desire to truly stay connected."

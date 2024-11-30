@@ -1,6 +1,8 @@
 ---
 title: "The Taste of Chocolate"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_hrensko.png"
+author_url: "/about"
 date: 2023-10-21
 postcover:
     image: "images/posts/Taste_Chocolate/header.jpeg"
@@ -8,8 +10,6 @@ postcover:
 cover:
     image: "images/posts/Taste_Chocolate/CoverSquare.jpeg"
     imagealt: "A chocolate cake."
-author_avatar: "images/authorimages/urvashi_bohinj.jpeg"
-author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "society"]
 excerpt: "From childhood cravings to adulthood’s lost magic—why chocolate just doesn’t taste the same anymore."

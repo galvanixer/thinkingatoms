@@ -1,7 +1,8 @@
 ---
 title: "Being Human, Being Unique"
 author_name: "Urvashi Sharma"
-author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_avatar: "images/author/urvashi/urvashi_hrensko.png"
+author_url: "/about"
 date: 2024-04-30
 postcover:
     image: "images/posts/beinghumanbeingunique/header.jpeg"
@@ -9,13 +10,12 @@ postcover:
 cover:
     image: "images/posts/beinghumanbeingunique/CoverSquare.jpeg"
     alt: "Study room with a window."
-author_avatar: "images/authorimages/urvashi_fussen.jpeg"
-author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "nature", "life"]
 excerpt: "Watching crows build a nest, I reflect on how humans, like animals, follow nature’s plan but add layers of ego and glamour."
 showhero: true
 heroimage: "images/slide1-bg-3000.jpg" 
+heroweight: 2
 ---
 {{< lead >}}
 While sitting alone in this room, I’m observing a couple of crows making a nest. Maybe they’re planning to have babies.

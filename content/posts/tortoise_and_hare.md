@@ -1,6 +1,8 @@
 ---
 title: "What Did We Learn from the Story of the Tortoise and the Hare?"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_hrensko.png"
+author_url: "/about"
 date: 2024-09-26
 postcover:
     image: "images/posts/Hare_Tortoise/header.jpeg"
@@ -8,8 +10,6 @@ postcover:
 cover:
     image: "images/posts/Hare_Tortoise/CoverSquare.jpeg"
     alt: "Tortoise on a table."
-author_avatar: "images/authorimages/urvashi_strasbourg.jpeg"
-author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "life", "society"]
 excerpt: "Rethinking the tortoise and the hare story: do we really value steady progress, or is speed the ultimate goal in life?"

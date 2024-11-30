@@ -1,6 +1,8 @@
 ---
 title: "The Pigeons of Europe"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_hrensko.png"
+author_url: "/about"
 date: 2024-08-13
 postcover:
     image: "images/posts/Pigeons_Europe/header.jpeg"
@@ -8,13 +10,12 @@ postcover:
 cover:
     image: "images/posts/Pigeons_Europe/CoverSquare.jpeg"
     alt: "A pigeon."
-author_avatar: "images/authorimages/urvashi_bohinj.jpeg"
-author_url: "#"
 categories: ["ThinkBox"]
 tags: ["philosophy", "nature", "society"]
 excerpt: "How pigeons blend effortlessly, but humans struggle with differences—a thought on nature, migration, and racism."
 showhero: true
 heroimage: "images/slide3-bg-3000.jpg" 
+heroweight: 4
 ---
 {{< lead >}}
 Am I so impressed with Europe that I’m writing blogs about every little thing here? No, it’s not quite like that. It’s just my observation about animal behavior and how it differs so much from humans.
