@@ -1,15 +1,15 @@
 ---
 title: "घर"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2024-03-27
 postcover:
     image: "images/poems/ghar.jpeg"
     imagealt: "घर"
 cover:
-    image: "images/poems/ghar.jpeg"
+    image: "images/poems/ghar_square.jpeg"
     alt: "a bird"
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["life", "emotional", "hindi"]
 excerpt: "एक चिड़िया का घोंसले से उड़ जाने का अनुभव"

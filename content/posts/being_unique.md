@@ -1,6 +1,7 @@
 ---
 title: "Being Human, Being Unique"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
 date: 2024-04-30
 postcover:
     image: "images/posts/beinghumanbeingunique/header.jpeg"

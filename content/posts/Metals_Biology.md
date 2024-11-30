@@ -2,14 +2,14 @@
 title: "From Exploding Stars to Living Cells: The Tale of Metals"
 author_name: "Urvashi Sharma"
 author_avatar: "images/author/urvashi/urvashi_fussen.png"
+author_url: "/about"
 date: 2024-10-15
 postcover:
-    image: "images/PopularScience/MetalsInBiology/hero.jpg"
+    image: "images/PopularScience/MetalsInBiology/postcover.jpg"
     imagealt: "periodic table"
 cover:
-    image: "images/posts/beinghumanbeingunique/CoverSquare.jpeg"
+    image: "images/PopularScience/MetalsInBiology/coversquare.jpg"
     alt: "Study room with a window."
-author_url: "/about"
 categories: ["Popular Science"]
 tags: ["popular science", "chemistry", "metals", "biology"]
 excerpt: "From Stardust to Life: The Epic Journey of Metals Across the Cosmos."

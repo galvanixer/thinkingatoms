@@ -1,15 +1,15 @@
 ---
 title: "मातृ-दिवस"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2015-05-31
 postcover:
     image: "images/poems/mothers_day.jpeg"
     imagealt: "झूठ सही"
 cover:
-    image: "images/poems/mothers_day.jpeg"
+    image: "images/poems/mothers_day_square.jpeg"
     alt: "family"
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["people", "emotional", "hindi"]
 excerpt: "मातृ दिवस के संदर्भ में"

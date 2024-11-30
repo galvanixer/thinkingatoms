@@ -1,15 +1,15 @@
 ---
 title: "मियां मुसद्दीलाल"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2024-10-01
 postcover:
     image: "images/poems/miyan.jpeg"
     imagealt: "मियां मुसद्दीलाल"
 cover:
-    image: "images/poems/miyan.jpeg"
+    image: "images/poems/miyan_square.jpeg"
     alt: "miyan ji"
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["people", "funny", "hindi"]
 excerpt: "तथाकथित फेमिनिस्ट पुरुषों पर कटाक्ष"

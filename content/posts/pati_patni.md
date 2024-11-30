@@ -1,15 +1,15 @@
 ---
 title: "पत्नी के लिए पति की ओर से"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2023-02-14
 postcover:
     image: "images/poems/husband_wife.jpeg"
     imagealt: "पत्नी के लिए पति की ओर से"
 cover:
-    image: "images/poems/husband_wife.jpeg"
+    image: "images/poems/husband_wife_square.jpeg"
     alt: "husband wife"
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["people", "funny", "hindi"]
 excerpt: "वही, पति-पत्नी का पुराना रिश्ता"

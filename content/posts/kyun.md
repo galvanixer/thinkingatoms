@@ -1,15 +1,15 @@
 ---
 title: "क्यूँ"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2023-06-25
 postcover:
     image: "images/poems/kyun.jpeg"
     imagealt: "क्यूँ"
 cover:
-    image: "images/poems/kyun.jpeg"
+    image: "images/poems/kyun_square.jpeg"
     alt: "papers."
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["life", "emotional", "hindi"]
 excerpt: "एकाकीपन का स्वर"

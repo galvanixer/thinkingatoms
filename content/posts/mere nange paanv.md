@@ -1,15 +1,15 @@
 ---
 title: "मेरे नंगे पांव"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2023-07-17
 postcover:
     image: "images/poems/mere_nange_paanv.jpg"
     imagealt: "मेरे नंगे पांव"
 cover:
-    image: "images/poems/mere_nange_paanv.jpg"
+    image: "images/poems/mere_nange_paan_square.jpeg"
     alt: "footprint."
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["life", "emotional", "hindi"]
 excerpt: "जीवन के अनुभव और मेरे नंगे पांव"

@@ -1,15 +1,15 @@
 ---
 title: "एक बीज की कहानी"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2024-09-29
 postcover:
     image: "images/poems/beej.jpeg"
     imagealt: "एक बीज की कहानी"
 cover:
-    image: "images/poems/beej.jpeg"
+    image: "images/poems/beej_square.jpeg"
     alt: "seed"
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["life", "motivational", "hindi"]
 excerpt: "एक बीज के संघर्षों की कहानी"

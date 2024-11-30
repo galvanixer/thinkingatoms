@@ -1,6 +1,8 @@
 ---
 title: "झोगू और गोलू"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2022-06-14
 postcover:
     image: "images/poems/golu_jhogu.jpeg"
@@ -8,8 +10,6 @@ postcover:
 cover:
     image: "images/poems/golu_jhogu_square.jpeg"
     alt: "papers."
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["people", "emotional", "hindi"]
 excerpt: "झोगू और गोलू"

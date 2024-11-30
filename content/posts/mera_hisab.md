@@ -1,15 +1,15 @@
 ---
 title: "मेरा हिसाब कर दो "
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2021-09-18
 postcover:
     image: "images/poems/mera_hisab.jpeg"
     imagealt: "मेरा हिसाब कर दो "
 cover:
-    image: "images/poems/mera_hisab.jpeg"
+    image: "images/poems/mera_hisab_square.jpeg"
     alt: "dry rose"
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["people", "emotional", "hindi"]
 excerpt: "एकांत के प्रतिबिंब"

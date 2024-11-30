@@ -1,15 +1,15 @@
 ---
 title: "For Nikki"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2012-11-11
 postcover:
     image: "images/poems/nikki.jpeg"
     imagealt: "For Nikki"
 cover:
-    image: "images/poems/nikki.jpeg"
+    image: "images/poems/nikki_square.jpeg"
     alt: "little boy"
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["people", "emotional"]
 excerpt: "When my little cousin brother joined army"

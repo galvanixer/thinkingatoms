@@ -1,7 +1,7 @@
 ---
 title: "Standard Post"
 date: 2024-11-15
-draft: false
+draft: true
 postcover:
     image: "images/thumbs/single/single-post-2100.jpg"
     imagealt: "Leaf"

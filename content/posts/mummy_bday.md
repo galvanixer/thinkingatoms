@@ -1,15 +1,15 @@
 ---
 title: "माँ का जन्मदिन"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2015-09-06
 postcover:
     image: "images/poems/mummy_bday.jpeg"
     imagealt: "माँ का जन्मदिन"
 cover:
-    image: "images/poems/mummy_bday.jpeg"
+    image: "images/poems/mummy_bday_square.jpeg"
     alt: "mother-daughter"
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["people", "emotional", "hindi"]
 excerpt: "माँ के जन्मदिन पर लिखी गई कविता"

@@ -1,15 +1,15 @@
 ---
 title: "जिन्हें गुस्सा बड़ा आता है"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2023-07-20
 postcover:
     image: "images/poems/gussa.jpeg"
     imagealt: "जिन्हें गुस्सा बड़ा आता है"
 cover:
-    image: "images/poems/gussa.jpeg"
+    image: "images/poems/gussa_square.jpeg"
     alt: "fist"
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["people", "emotional", "hindi"]
 excerpt: "कुछ लोग"

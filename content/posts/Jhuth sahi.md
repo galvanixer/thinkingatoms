@@ -1,15 +1,15 @@
 ---
 title: "झूठ सही"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2022-09-15
 postcover:
     image: "images/poems/jhuth_sahi.jpg"
     imagealt: "झूठ सही"
 cover:
-    image: "images/poems/jhuth_sahi.jpg"
+    image: "images/poems/jhuth_sahi_square.jpeg"
     alt: "papers."
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["life", "emotional", "hindi"]
 excerpt: "एकांत में छिपे विचार"

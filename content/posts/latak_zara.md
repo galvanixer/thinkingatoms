@@ -1,15 +1,15 @@
 ---
 title: "लटक जरा मटक जरा "
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2023-03-08
 postcover:
     image: "images/poems/latak_zara.jpeg"
     imagealt: "लटक जरा मटक जरा "
 cover:
-    image: "images/poems/latak_zara.jpeg"
+    image: "images/poems/latak_zara_square.jpeg"
     alt: "papers."
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["life", "motivational", "hindi"]
 excerpt: "महिला दिवस के संदर्भ में"

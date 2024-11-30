@@ -1,15 +1,15 @@
 ---
 title: "मैं"
 author_name: "Urvashi Sharma"
+author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_url: "/about"
 date: 2024-09-27
 postcover:
     image: "images/poems/main.jpeg"
     imagealt: "मैं"
 cover:
-    image: "images/poems/main.jpeg"
+    image: "images/poems/main_square.jpeg"
     alt: "girl sitting on bean bag."
-author_avatar: "images/authorimages/urvashi_hrensko.jpeg"
-author_url: "#"
 categories: ["Poems"]
 tags: ["people", "fun", "hindi"]
 excerpt: "एक साधारण व्यक्ति का परिचय"
