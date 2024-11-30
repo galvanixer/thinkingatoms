@@ -62,6 +62,10 @@
     margin-bottom: 10px;
 }
 
+.callout-text p {
+    margin-bottom: 5px;
+}
+
 
 .callout--green {
     background-color: var(--color-mine-light-1);
