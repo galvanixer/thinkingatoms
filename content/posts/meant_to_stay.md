@@ -10,7 +10,7 @@ cover:
     alt: "People who are Meant to Stay."
 author_avatar: "images/authorimages/urvashi_bindi.jpeg"
 author_url: "#"
-categories: ["People"]
+categories: ["ThinkBox"]
 tags: ["people", "life", "love"]
 excerpt: "Missing home this Diwali, I reflect on family, childhood bonds, and the simple yet profound desire to truly stay connected."
 ---

@@ -1,23 +1,30 @@
 ---
-title: "About"
+title: "About Me."
 layout: "about"
 type: "miscellaneous"
 date: 2024-11-17
 featured_image: "/images/thumbs/about/about-urvashi.jpg"
-featured_image_srcset: "/images/thumbs/about/about-2100.jpg 2100w, /images/thumbs/about/about-1050.jpg 1050w"
+featured_image_srcset: "/images/thumbs/about/about-urvashi.jpg 2100w, /images/thumbs/about/about-urvashi.jpg 1050w"
 featured_image_alt: "About"
 blocks:
+  - title: "Popular Science"
+    content: "Explore the fascinating role of chemistry in everyday life, from materials to food, and the science behind common things. I’ll simplify complex concepts and show how they shape our world."
+  - title: "Think Box"
+    content: "This is where I share reflections on life, people, and the lessons I’ve learned along the way. A space to think deeply and ponder the things that matter most."
   - title: "Poems"
-    content: "हिंदी कविताएँ हमारी संस्कृति और भावनाओं का दर्पण हैं। ये कविताएँ हमारे जीवन, प्रेम, भक्ति, राष्ट्रभक्ति और प्रकृति के प्रति हमारे दृष्टिकोण को व्यक्त करती हैं। हिंदी साहित्य में प्राचीन काल से लेकर आधुनिक युग तक, कविताओं ने समाज को प्रेरणा और मार्गदर्शन दिया है।."
-  - title: "When?"
-    content: "Lorem ipsum Nisi amet fugiat eiusmod et aliqua ad qui ut nisi Ut aute anim mollit fugiat qui sit ex occaecat et eu mollit nisi pariatur fugiat deserunt dolor veniam reprehenderit aliquip magna nisi consequat aliqua veniam in aute ullamco Duis laborum ad non pariatur sit."
-  - title: "What?"
-    content: "Lorem ipsum Nisi amet fugiat eiusmod et aliqua ad qui ut nisi Ut aute anim mollit fugiat qui sit ex occaecat et eu mollit nisi pariatur fugiat deserunt dolor veniam reprehenderit aliquip magna nisi consequat aliqua veniam in aute ullamco Duis laborum ad non pariatur sit."
-  - title: "How?"
-    content: "Lorem ipsum Nisi amet fugiat eiusmod et aliqua ad qui ut nisi Ut aute anim mollit fugiat qui sit ex occaecat et eu mollit nisi pariatur fugiat deserunt dolor veniam reprehenderit aliquip magna nisi consequat aliqua veniam in aute ullamco Duis laborum ad non pariatur sit."
+    content: "A collection of my Hindi poetry, capturing emotions and stories close to my heart. A place where words and feelings meet in rhythm and verse."
+  - title: "Hindi Corner"
+    content: "Dedicated to my writings in Hindi, my mother tongue, where I express thoughts and ideas in the language that feels most natural to me. A space for authentic expression."
+conclusion: "Thank you for joining me on this journey. I hope ThinkingAtoms becomes a place where science meets art, and curiosity sparks inspiration!"
 ---
 {{< lead >}}
-Welcome to Thinking Atoms, a space where ideas converge and imagination takes flight. Created by Urvashi Sharma, this blog reflects a curious mind exploring the delicate dance between science, art, and the human condition. 
+Hi, I’m **Urvashi Sharma**, and I’m excited to welcome you all to **Thinking Atoms**— a digital version of my diary.
 {{< /lead >}}
 
-From thought-provoking explorations of philosophy and lyrical escapes into poetry, to unraveling the molecular mysteries of chemistry and engaging insights into popular science, Thinking Atoms brings together the logical and the lyrical in a unique tapestry of ideas. The name symbolizes the essence of this blog: just as atoms form the foundation of the universe, every thought has the potential to create something magnificent. Whether you’re here for deep discussions, poetic inspiration, or captivating scientific insights, Thinking Atoms celebrates the power of curiosity and creativity. Let’s explore the universe, one thought at a time.
+I am a materials scientist who is passionate about penning down her thoughts. Like everyone, I am a mix of contrasts. The serious side of me contemplates about  the inner workings of the world around myself, mixes chemicals to create unique morphologies of nano particles, and thinks about human emotions to make sense out of them. The other side of me is carefree and gets excited by little joys of life like blooming flowers, falling snow, and full moon. Seeing seeds sprout fills me with so much joy that I could cry, and good music makes me dance like crazy. When I can’t express my feelings, I write poems, and after a tiring day, I love to color anything I can find. Yet, around new people, I often feel shy and a little awkward.
+
+Last year, I moved to Strasbourg, a charming town in France. From the day I arrived, I’ve felt nothing but gratitude for being in this beautiful place. This town more than anything gave me time and space to rediscover myself. Here, I planted my own balcony garden, gathered moss and ferns from the riverside and create my own terrarium, collected succulents and sedums from all over Europe and make them part of my little collection. I poured my heart into writing poems and reflections on life, while also reinvigorating my spirit by exploring new interests and learning every chance I got.
+
+Now, I feel the time has come to share these musings with the world. Through Thinking Atoms, I would like to bring together my love for science with my other passions and connect with those who resonate with similar ideas. This blog is divided into four sections:
+
+

@@ -10,7 +10,7 @@ cover:
     alt: "A girl with her mother."
 author_avatar: "images/authorimages/urvashi_bindi.jpeg"
 author_url: "#"
-categories: ["People"]
+categories: ["ThinkBox"]
 tags: ["people", "life", "love"]
 excerpt: "Reflecting on Rakhi and a special bond with some people—gifts that go beyond material value to create lasting connections."
 ---

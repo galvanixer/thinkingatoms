@@ -4,8 +4,8 @@ subtitle: "Don't be a stranger"
 layout: "contact"
 type: "miscellaneous"
 date: 2024-11-17
-featured_image: "/images/thumbs/contact/contact-1050.jpg"
-featured_image_srcset: "/images/thumbs/contact/contact-2100.jpg 2100w, /images/thumbs/contact/contact-1050.jpg 1050w, /images/thumbs/contact/contact-525.jpg 525w"
+featured_image: "/images/thumbs/contact/contact-urvashi.jpg"
+featured_image_srcset: "/images/thumbs/contact/contact-urvashi.jpg 2100w, /images/thumbs/contact/contact-urvashi.jpg 1050w, /images/thumbs/contact/contact-urvashi.jpg 525w"
 featured_image_alt: "Contact"
 
 ---
