@@ -1,0 +1,8 @@
+<div class="callout callout--{{ .Get "color" }}">
+    <div class="callout-heading callout-heading--{{ .Get "color" }}">
+        <i class="ph-{{ .Get "iconstyle" }} ph-{{ .Get "icon" }}"></i> {{ .Get "title" }}
+    </div>
+    <p class="callout-text">
+        {{ .Inner }}
+    </p>
+</div>

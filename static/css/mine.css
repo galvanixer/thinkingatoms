@@ -1,0 +1,110 @@
+/* ------------------------------------------------------------------
+ * Colors
+ * ------------------------------------------------------------------ */
+:root {
+    --color-mine-1: #a7c957;
+    --color-mine-2: #EE6C4D;
+    --color-mine-3: #2C8C99;
+    --color-mine-4: #011936;
+    --color-mine-5: #FFBC42;
+
+    --color-mine-light-1: #e9edc9;
+    --color-mine-light-2: #fff0f3;
+    --color-mine-light-3: #edf2fb;
+    --color-mine-light-4: #e2eafc;
+    --color-mine-light-5: #fffdf7;
+
+
+}
+
+/* ------------------------------------------------------------------
+ * Callouts 
+ * ------------------------------------------------------------------ */
+
+.callout {
+    padding: 16px;
+    border-radius: 10px;
+    margin-bottom: var(--vspace-1);
+    font-family: var(--font-1);
+    font-weight: 400;
+    font-size: var(--text-sm);
+    background-color: #e9edc9;
+    line-height: var(--vspace-0_75);
+    opacity: 1;
+    visibility: visible;
+    position: relative;
+
+}
+
+.callout-heading {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    color: #000000;
+    font-family: var(--font-2);
+    border-radius: 10px 10px 0 0;
+    margin: -16px -16px 10px -16px;
+    /* Adjust for padding alignment */
+    font-size: var(--text-md);
+}
+
+
+.callout-heading i {
+    margin-left: 10px;
+    margin-right: 8px;
+    font-size: 32px;
+}
+
+.callout-text {
+    color: #555555;
+    padding: 10px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+
+.callout--green {
+    background-color: var(--color-mine-light-1);
+}
+
+.callout-heading--green {
+    background-color: var(--color-mine-1);
+    color: #000000;
+}
+
+.callout--red {
+    background-color: var(--color-mine-light-2);
+}
+
+.callout-heading--red {
+    background-color: var(--color-mine-2);
+    color: #ffffff;
+}
+
+.callout--blue {
+    background-color: var(--color-mine-light-3);
+}
+
+.callout-heading--blue {
+    background-color: var(--color-mine-3);
+    color: #ffffff;
+}
+
+.callout--yellow {
+    background-color: var(--color-mine-light-5);
+}
+
+.callout-heading--yellow {
+    background-color: var(--color-mine-5);
+    color: #000000;
+}
+
+.callout--navyblue {
+    background-color: var(--color-mine-light-4);
+}
+
+.callout-heading--navyblue {
+    background-color: var(--color-mine-4);
+    color: #ffffff;
+}
+

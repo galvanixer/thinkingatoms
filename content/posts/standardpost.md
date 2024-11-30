@@ -1,7 +1,7 @@
 ---
 title: "Standard Post"
 date: 2024-11-15
-draft: true
+draft: false
 postcover:
     image: "images/thumbs/single/single-post-2100.jpg"
     imagealt: "Leaf"
@@ -150,3 +150,13 @@ It will motivate you to righteousness.
 | William J. Seymour  | 34  | Male   | Azusa Street |
 | Jennie Evans Moore  | 30  | Female | Azusa Street |
 {{< /table >}}
+
+### Callouts
+
+{{< callout_heading color="red" title="Fun Fact" iconstyle="duotone" icon="watch">}}
+Blood, often associated with its characteristic red color, exhibits a fascinating array of hues across the animal kingdom due to variations in oxygen-carrying molecules and their structures. In humans and most vertebrates, blood appears red because of hemoglobin, an iron-based protein that binds oxygen. Oxygenated blood is bright red, while deoxygenated blood takes on a darker, maroon shade. However, not all creatures rely on hemoglobin. Some mollusks and arthropods, such as crabs and octopuses, have blue blood due to hemocyanin, a copper-based molecule that transports oxygen. Certain species of marine worms, like peanut worms, have violet blood, a result of hemerythrin, another oxygen-carrying protein. Even more intriguing is the green blood of some lizards in New Guinea, which is caused by high levels of biliverdin, a bile pigment. Each blood color serves unique physiological roles, highlighting the incredible diversity of adaptations in nature.
+{{< /callout_heading >}}
+
+{{< callout color="yellow">}}
+Blood, often associated with its characteristic red color, exhibits a fascinating array of hues across the animal kingdom due to variations in oxygen-carrying molecules and their structures. In humans and most vertebrates, blood appears red because of hemoglobin, an iron-based protein that binds oxygen. Oxygenated blood is bright red, while deoxygenated blood takes on a darker, maroon shade. However, not all creatures rely on hemoglobin. Some mollusks and arthropods, such as crabs and octopuses, have blue blood due to hemocyanin, a copper-based molecule that transports oxygen. Certain species of marine worms, like peanut worms, have violet blood, a result of hemerythrin, another oxygen-carrying protein. Even more intriguing is the green blood of some lizards in New Guinea, which is caused by high levels of biliverdin, a bile pigment. Each blood color serves unique physiological roles, highlighting the incredible diversity of adaptations in nature.
+{{< /callout >}}
