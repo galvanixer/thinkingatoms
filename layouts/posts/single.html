@@ -31,7 +31,7 @@
                         <!-- Author Meta -->
                         <div class="entry-author meta-blk">
                             <div class="author-avatar">
-                                <img class="avatar" src="{{ .Params.author_avatar }}" alt="{{ .Params.author_name }}">
+                                <img class="avatar" src="{{ .Params.author_avatar | relURL }}" alt="{{ .Params.author_name }}">
                             </div>
                             <div class="byline">
                                 <span class="bytext">Posted By</span>

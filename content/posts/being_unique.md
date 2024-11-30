@@ -15,7 +15,6 @@ tags: ["philosophy", "nature", "life"]
 excerpt: "Watching crows build a nest, I reflect on how humans, like animals, follow nature’s plan but add layers of ego and glamour."
 showhero: true
 heroimage: "images/slide1-bg-3000.jpg" 
-
 ---
 {{< lead >}}
 While sitting alone in this room, I’m observing a couple of crows making a nest. Maybe they’re planning to have babies.
