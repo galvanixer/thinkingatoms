@@ -26,6 +26,7 @@ Or this:
     alt="An example image"
     caption="This is an image with srcset and caption."
 >}}
+{{</ imgset >}}
 
 
 ## Large Heading

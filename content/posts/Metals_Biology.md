@@ -29,8 +29,9 @@ These elemental riches scattered across space, in the form of enormous gas and d
     srcset=""
     sizes=""
     alt="An example image"
-    caption="Periodic Table of Life: Essential elements for biological systems are highlighted in black, showcasing their indispensable role in life’s processes. Elements suggested to be essential, but not yet universally confirmed, are marked in navy blue, hinting at their potential significance in the web of life."
 >}}
+Periodic Table of Life: Essential elements for biological systems are highlighted in black, showcasing their indispensable role in life’s processes. Elements suggested to be essential, but not yet universally confirmed, are marked in navy blue, hinting at their potential significance in the web of life.
+{{</ imgset >}}
 
 So, how did these metals journey from lifeless rocks to living organisms? As life began to emerge on Earth, metals found their way into biological systems. Why? Their unique properties make them perfect for biochemical reactions. Metals can easily transfer electrons, making them powerful catalysts for energy production and other vital processes. Over billions of years, life evolved to use these cosmic leftovers as the building blocks for survival.
 
@@ -43,8 +44,9 @@ Naturally, the conversation must begin with **Iron**—the ultimate lifeline met
     srcset=""
     sizes=""
     alt="An example image"
-    caption="This illustration showcases the heme structure, where iron (Fe²⁺) lies at the center of the molecule, enabling hemoglobin’s vital role in carrying oxygen through the bloodstream. The protein’s complex quaternary structure (α1, α2, β1, β2 subunits) works harmoniously to ensure efficient oxygen delivery to tissues."
 >}}
+This illustration showcases the heme structure, where iron (Fe²⁺) lies at the center of the molecule, enabling hemoglobin’s vital role in carrying oxygen through the bloodstream. The protein's complex quaternary structure (α1, α2, β1, β2 subunits) works harmoniously to ensure efficient oxygen delivery to tissues. Taken from {{< cite "HemoglobinStructureTypes2023" >}}
+{{</ imgset >}}
 
 Interestingly, iron is not the only player for oxygen transport throughout the animal kingdom; some invertebrates use hemocyanin for oxygen transport. Unlike hemoglobin, which contains iron, hemocyanin contains copper. When copper shifts between its 1+ and 2+ oxidation states, it binds oxygen and surprisingly, it gives a striking blue color to the blood {{< cite "lutzManyColorsBlood2010">}}.
 
@@ -71,8 +73,9 @@ One of copper’s key roles is helping cells produce energy. Inside our cells, c
     srcset=""
     sizes=""
     alt="An example image"
-    caption="An intricate map of copper’s journey within cells: from its entry via transporters like CTR1, to its roles in energy metabolism (cytochrome c oxidase), synthesis of bio-compounds (lysyl oxidase, dopamine β-hydroxylase), and signaling pathways (mTOR and RAF). Copper’s dynamic movement highlights its vital functions in maintaining cellular energy, regulating oxidative stress, and driving metabolic and signaling processes necessary for life."
 >}}
+An intricate map of copper’s journey within cells: from its entry via transporters like CTR1, to its roles in energy metabolism (cytochrome c oxidase), synthesis of bio-compounds (lysyl oxidase, dopamine β-hydroxylase), and signaling pathways (mTOR and RAF). Copper’s dynamic movement highlights its vital functions in maintaining cellular energy, regulating oxidative stress, and driving metabolic and signaling processes necessary for life. Taken from {{< cite "CopperBiology2021" >}}
+{{</ imgset >}}
 
 Copper also helps protect our cells. When our cells make energy, they produce **reactive oxygen species (ROS)**, which can be harmful if they build up. Copper helps control these by being part of another enzyme called **superoxide dismutase 1 (SOD1)**, which neutralizes ROS and keeps our cells safe from damage. Also, copper helps our body use **iron** properly. Iron is needed for making parts inside our cells that are crucial for energy production. Copper makes sure iron works correctly, ensuring everything runs smoothly inside our cells {{< cite "CopperSignalingMammalian2013">}}.
 
@@ -95,8 +98,9 @@ Now, let’s come to the **Zinc**, the master regulator. Zinc might not be flash
     srcset=""
     sizes=""
     alt="An example image"
-    caption="Process of Mitosis. Mitosis is the process by which a cell divides and replicates its DNA, resulting in two genetically identical daughter cells. During mitosis, the chromosomes in the cell nucleus condense and the nuclear envelope breaks down.The chromosomes are then separated by the spindle fibers and pulled to opposite sides of the cell. Finally, the cell divides, forming two new nuclei with identical genetic information. This process is necessary for tissue growth and repair in multicellular organisms."
 >}}
+Process of Mitosis. Mitosis is the process by which a cell divides and replicates its DNA, resulting in two genetically identical daughter cells. During mitosis, the chromosomes in the cell nucleus condense and the nuclear envelope breaks down.The chromosomes are then separated by the spindle fibers and pulled to opposite sides of the cell. Finally, the cell divides, forming two new nuclei with identical genetic information. This process is necessary for tissue growth and repair in multicellular organisms.
+{{</ imgset >}}
 
 Zinc is an essential mineral for the body, especially for cell growth, division, and repair. It plays a crucial role in synthesizing DNA and proteins, which are necessary for cells to reproduce and function properly. Zinc also helps activate enzymes that regulate the cell cycle, the process that controls how cells divide. If there is not enough zinc, cell division can slow down or even stop. Zinc is also involved in several signaling pathways that control cell growth. One of these is related to IGF (Insulin-like Growth Factor), a hormone that helps stimulate cell division and growth. Zinc supports the activity of IGF-1 by enhancing its ability to bind to its receptor, which activates a cascade of signals that promote cell proliferation. In addition, zinc plays a role in the structure of microtubules, which are important for cell division and maintaining cell shape. Without zinc, the assembly of these structures can be impaired, affecting the ability of cells to divide properly. Overall, zinc is vital for maintaining healthy cell functions, especially for growth and repair {{< cite "ZincBiologicalFunctions2023">}}.
 
