@@ -13,7 +13,7 @@ cover:
 categories: ["ThinkBox"]
 tags: ["philosophy", "life", "society"]
 excerpt: "Exploring the unexpected charm of ignorance—how knowing less can spark curiosity, resilience, and fresh possibilities."
-showhero: true
+showhero: false
 heroimage: "images/slide2-bg-3000.jpg" 
 heroweight: 3
 ---

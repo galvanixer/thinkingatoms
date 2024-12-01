@@ -13,7 +13,7 @@ cover:
 categories: ["ThinkBox"]
 tags: ["philosophy", "nature", "society"]
 excerpt: "How pigeons blend effortlessly, but humans struggle with differences—a thought on nature, migration, and racism."
-showhero: true
+showhero: false
 heroimage: "images/slide3-bg-3000.jpg" 
 heroweight: 4
 ---

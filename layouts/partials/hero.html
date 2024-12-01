@@ -5,7 +5,15 @@
         {{ range $pages }}
         {{ if .Params.showhero }}
         <div class="s-hero__slide">
-            <div class="s-hero__slide-bg" style="background-image: url('{{ .Params.heroimage | relURL }}');"></div>
+            <div class="s-hero__slide-bg">
+                <picture>
+                    <img src="{{ .Params.heroimage.src }}" srcset="{{ .Params.heroimage.srcset }}" sizes="{{ .Params.heroimage.sizes }}" 
+                    alt="{{ .Params.heroimage.alt }}" 
+                    style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0;"
+                    loading="lazy" decoding="async">
+                </picture>
+
+            </div>
             <div class="row s-hero__slide-content animate-this">
                 <div class="column">
                     <div class="s-hero__slide-meta">
@@ -37,9 +45,8 @@
         <span></span>
         <ul class="s-hero__social-icons">
             {{ range site.Params.socialLinks }}
-            <li><a href={{ .url }} target="_blank"><i class="fab fa-{{ .name }}" aria-hidden="true"></i></a></li>
+            <li><a href={{ .url }} target="_blank"><i class="ph-fill ph-{{ .name }}-logo" aria-hidden="true"></i></a></li>
             {{ end }}
-
         </ul>
     </div> <!-- end s-hero__social -->
 

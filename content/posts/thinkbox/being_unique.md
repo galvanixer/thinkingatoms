@@ -13,7 +13,7 @@ cover:
 categories: ["ThinkBox"]
 tags: ["philosophy", "nature", "life"]
 excerpt: "Watching crows build a nest, I reflect on how humans, like animals, follow nature’s plan but add layers of ego and glamour."
-showhero: true
+showhero: false
 heroimage: "images/slide1-bg-3000.jpg" 
 heroweight: 2
 ---
