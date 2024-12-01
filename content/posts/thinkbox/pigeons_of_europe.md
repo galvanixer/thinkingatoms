@@ -17,7 +17,7 @@ showhero: true
 heroimage:
     src: "images/hero/hero_pigeons_3000.jpg"
     srcset: "images/hero/hero_pigeons_3000.jpg 3000w, images/hero/hero_pigeons_1500.jpg 1500w"
-    alt: "Metals in Biology"
+    alt: "Pigeons in Europe"
     sizes: "(max-width: 480px) 100vw, (max-width: 1024px) 100vw, 3000px"
 heroweight: 3
 ---
