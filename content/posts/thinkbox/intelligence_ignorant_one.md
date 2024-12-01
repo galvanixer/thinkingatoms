@@ -13,9 +13,6 @@ cover:
 categories: ["ThinkBox"]
 tags: ["philosophy", "life", "society"]
 excerpt: "Exploring the unexpected charm of ignorance—how knowing less can spark curiosity, resilience, and fresh possibilities."
-showhero: false
-heroimage: "images/slide2-bg-3000.jpg" 
-heroweight: 3
 ---
 {{< lead >}}
 Let’s start with this idea: “One should never be completely ignorant.” Why? Because being ignorant can sometimes cause us to misinterpret a lack of effort or understanding as cleverness or strength.

@@ -13,9 +13,13 @@ cover:
 categories: ["ThinkBox"]
 tags: ["philosophy", "nature", "society"]
 excerpt: "How pigeons blend effortlessly, but humans struggle with differences—a thought on nature, migration, and racism."
-showhero: false
-heroimage: "images/slide3-bg-3000.jpg" 
-heroweight: 4
+showhero: true
+heroimage:
+    src: "images/hero/hero_pigeons_3000.jpg"
+    srcset: "images/hero/hero_pigeons_3000.jpg 3000w, images/hero/hero_pigeons_1500.jpg 1500w"
+    alt: "Metals in Biology"
+    sizes: "(max-width: 480px) 100vw, (max-width: 1024px) 100vw, 3000px"
+heroweight: 3
 ---
 {{< lead >}}
 Am I so impressed with Europe that I’m writing blogs about every little thing here? No, it’s not quite like that. It’s just my observation about animal behavior and how it differs so much from humans.
