@@ -15,8 +15,8 @@ tags: ["philosophy", "nature", "life"]
 excerpt: "Watching crows build a nest, I reflect on how humans, like animals, follow nature’s plan but add layers of ego and glamour."
 showhero: true
 heroimage:
-    src: "images/hero/hero_beingunique_3000.jpg"
-    srcset: "images/hero/hero_beingunique_3000.jpg 3000w, images/hero/hero_beingunique_1500.jpg 1500w"
+    src: "/images/hero/hero_beingunique_3000.jpg"
+    srcset: "/images/hero/hero_beingunique_3000.jpg 3000w, /images/hero/hero_beingunique_1500.jpg 1500w"
     alt: "Metals in Biology"
     sizes: "(max-width: 480px) 100vw, (max-width: 1024px) 100vw, 3000px"
 heroweight: 2

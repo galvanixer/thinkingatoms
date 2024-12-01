@@ -15,8 +15,8 @@ tags: ["popular science", "chemistry", "metals", "biology"]
 excerpt: "From Stardust to Life: The Epic Journey of Metals Across the Cosmos."
 showhero: true
 heroimage:
-    src: "images/hero/hero_metalsbiology_3000.jpg"
-    srcset: "images/hero/hero_metalsbiology_3000.jpg 3000w, images/hero/hero_metalsbiology_1500.jpg 1500w"
+    src: "/images/hero/hero_metalsbiology_3000.jpg"
+    srcset: "/images/hero/hero_metalsbiology_3000.jpg 3000w, /images/hero/hero_metalsbiology_1500.jpg 1500w"
     alt: "Metals in Biology"
     sizes: "(max-width: 480px) 100vw, (max-width: 1024px) 100vw, 3000px"
 heroweight: 1
