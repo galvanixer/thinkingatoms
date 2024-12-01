@@ -20,7 +20,7 @@ heroweight: 4
 {{< lead >}}
 Am I so impressed with Europe that I’m writing blogs about every little thing here? No, it’s not quite like that. It’s just my observation about animal behavior and how it differs so much from humans.
 {{< /lead >}}
-A few decades ago, a handful of white pigeons arrived here among a major population of black pigeons. Maybe they migrated from somewhere, or maybe they mutated genetically—either way, it doesn’t really matter. Now, around 80% of the pigeon population here is hybrid. Most of them are white with a little bit of black, and vice versa. I can barely spot any pigeons that are purely black, and even fewer that are purely white. They’re all mixed up, and most of them are hybrids.
+A few decades ago, a handful of white pigeons might have arrived here among a major population of black pigeons. Maybe they mutated genetically or migrated from somewhere — either way, it doesn’t really matter. Now, around 80% of the pigeon population here is hybrid. Most of them are white with a little bit of black, and vice versa. I can barely spot any pigeons that are purely black, and even fewer that are purely white. They’re all mixed up, and most of them are hybrids.
 
 {{< pullquote >}}
 This situation reveals just how complex we are as a species. Well, it is called racism.
