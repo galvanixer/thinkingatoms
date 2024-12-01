@@ -1,7 +1,7 @@
 ---
 title: "From Exploding Stars to Living Cells: The Tale of Metals"
 author_name: "Urvashi Sharma"
-author_avatar: "images/author/urvashi/urvashi_fussen.png"
+author_avatar: "images/author/urvashi/urvashi_fussen.jpg"
 author_url: "/about"
 date: 2024-10-15
 postcover:
