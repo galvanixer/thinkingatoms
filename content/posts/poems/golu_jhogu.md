@@ -3,7 +3,7 @@ title: "झोगू और गोलू"
 author_name: "Urvashi Sharma"
 author_avatar: "images/author/urvashi/urvashi_udaipur.jpg"
 author_url: "/about"
-date: 2022-06-14
+date: 2024-06-14
 postcover:
     image: "images/poems/golu_jhogu.jpeg"
     imagealt: "झोगू और गोलू"
