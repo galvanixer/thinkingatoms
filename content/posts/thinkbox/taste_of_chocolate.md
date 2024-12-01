@@ -1,7 +1,7 @@
 ---
 title: "The Taste of Chocolate"
 author_name: "Urvashi Sharma"
-author_avatar: "images/author/urvashi/urvashi_hrensko.png"
+author_avatar: "images/author/urvashi/urvashi_hrensko.jpg"
 author_url: "/about"
 date: 2023-10-21
 postcover:

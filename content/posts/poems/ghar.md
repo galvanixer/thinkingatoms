@@ -1,7 +1,7 @@
 ---
 title: "घर"
 author_name: "Urvashi Sharma"
-author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_avatar: "images/author/urvashi/urvashi_udaipur.jpg"
 author_url: "/about"
 date: 2024-03-27
 postcover:

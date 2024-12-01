@@ -1,7 +1,7 @@
 ---
 title: "For Nikki"
 author_name: "Urvashi Sharma"
-author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_avatar: "images/author/urvashi/urvashi_udaipur.jpg"
 author_url: "/about"
 date: 2012-11-11
 postcover:

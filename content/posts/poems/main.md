@@ -1,7 +1,7 @@
 ---
 title: "मैं"
 author_name: "Urvashi Sharma"
-author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_avatar: "images/author/urvashi/urvashi_udaipur.jpg"
 author_url: "/about"
 date: 2024-09-27
 postcover:

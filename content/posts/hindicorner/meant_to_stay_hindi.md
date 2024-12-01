@@ -1,7 +1,7 @@
 ---
 title: "लोग जो हमेशा हमारे साथ रहते हैं"
 author_name: "Urvashi Sharma"
-author_avatar: "images/author/urvashi/urvashi_ujjain.png"
+author_avatar: "images/author/urvashi/urvashi_ujjain.jpg"
 author_url: "/about"
 date: 2024-10-24
 postcover:

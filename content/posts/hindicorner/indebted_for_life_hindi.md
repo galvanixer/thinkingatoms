@@ -1,7 +1,7 @@
 ---
 title: "जीवनभर का ऋण "
 author_name: "Urvashi Sharma"
-author_avatar: "images/author/urvashi/urvashi_ujjain.png"
+author_avatar: "images/author/urvashi/urvashi_ujjain.jpg"
 author_url: "/about"
 date: 2024-08-10
 postcover:

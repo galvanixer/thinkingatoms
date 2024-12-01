@@ -1,7 +1,7 @@
 ---
 title: "झोगू और गोलू"
 author_name: "Urvashi Sharma"
-author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_avatar: "images/author/urvashi/urvashi_udaipur.jpg"
 author_url: "/about"
 date: 2022-06-14
 postcover:

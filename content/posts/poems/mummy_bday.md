@@ -1,7 +1,7 @@
 ---
 title: "माँ का जन्मदिन"
 author_name: "Urvashi Sharma"
-author_avatar: "images/author/urvashi/urvashi_udaipur.png"
+author_avatar: "images/author/urvashi/urvashi_udaipur.jpg"
 author_url: "/about"
 date: 2015-09-06
 postcover:
